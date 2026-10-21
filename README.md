@@ -1,10 +1,6 @@
 # 📄 Quant Bot — Public Paper-Trading Proof
 
-> ⚠️ **This is a PAPER SIMULATION with NO MEASURED EDGE. It places no real orders, holds no real money and is connected to no broker. Out of sample its ranking skill is barely better than a coin flip (AUC ≈ 0.53) and its probability calibration is essentially nil (Brier skill ≈ 0.0007). It is NOT investment advice and it does not make money.**
->
-> This is a SIMULATION. It places no real orders, holds no real money and is connected to no broker. Every number below is computed from real market prices and made-up paper fills. It is not investment advice.
-
-_Last refreshed: 2026-10-21T19:46:26.777085+00:00 · published from `quant-bot-live-proof`._
+_Last refreshed: 2026-10-21T20:10:04.166314+00:00 · published from `quant-bot-live-proof`._
 
 ---
 
@@ -12,28 +8,26 @@ _Last refreshed: 2026-10-21T19:46:26.777085+00:00 · published from `quant-bot-l
 
 | Metric | Value |
 | --- | ---: |
-| Wallet value (started at $1,000.00) | **$999.81** |
-| Total return | **-0.02%** |
-| Profit / loss | $-0.19 |
+| Wallet value (started at $1,000.00) | **$1,001.12** |
+| Total return | **+0.11%** |
+| Profit / loss | $1.12 |
 | Cash on hand | $-0.01 |
-| Invested in stocks | $999.82 |
+| Invested in stocks | $1,001.13 |
 | Fees + slippage paid | $0.50 |
 | Days tracked | 1 |
 | Started | 2026-10-21 |
-
-There is no measured edge here: the model's out-of-sample ranking skill is AUC ≈ 0.53 and its Brier skill is ≈ 0.0007. Read every number below as a simulation, not a track record.
 
 ## Today's positions
 
 | Ticker | Sector | Shares | Paid | Now | Value | P&L | Verify |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| **ABBV** | healthcare | 0.4239 | $283.10 | $283.70 | $120.25 | +0.21% | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
+| **ABBV** | healthcare | 0.4239 | $283.10 | $284.72 | $120.69 | +0.57% | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
 | **COP** | energy_materials | 0.8238 | $145.66 | $145.59 | $119.94 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/COP) |
-| **CVX** | energy_materials | 0.5310 | $225.98 | $225.87 | $119.94 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/CVX) |
+| **CVX** | energy_materials | 0.5310 | $225.98 | $226.76 | $120.41 | +0.34% | [Yahoo](https://finance.yahoo.com/quote/CVX) |
 | **LMT** | industrials | 0.1737 | $548.42 | $548.15 | $95.23 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/LMT) |
 | **META** | technology | 0.1079 | $709.99 | $709.64 | $76.57 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/META) |
 | **NFLX** | consumer | 1.3288 | $65.46 | $65.43 | $86.95 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/NFLX) |
-| **PFE** | healthcare | 4.0302 | $29.77 | $29.76 | $119.94 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/PFE) |
+| **PFE** | healthcare | 4.0302 | $29.77 | $29.86 | $120.34 | +0.29% | [Yahoo](https://finance.yahoo.com/quote/PFE) |
 | **QCOM** | technology | 0.4105 | $178.10 | $178.01 | $73.07 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/QCOM) |
 | **UPS** | industrials | 0.6857 | $99.20 | $99.15 | $67.99 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/UPS) |
 | **WMT** | consumer | 1.0170 | $117.99 | $117.93 | $119.94 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/WMT) |
@@ -85,5 +79,3 @@ _Session 2026-10-21 (data as of 2026-10-21; source live_latest_session)._
 1. Open the **Yahoo Finance** link next to a position or candidate.
 2. Compare the live price on Yahoo with the price recorded here.
 3. When they match, you are looking at real market prices and real paper fills.
-
-> This project is a research toy. It is a paper simulation with no measured edge and it is **not investment advice**. Do not trade on it.

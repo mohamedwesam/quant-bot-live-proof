@@ -1,13 +1,11 @@
 {
   "updated_at": "2026-10-21T19:19:09.992918+00:00",
   "is_simulation": true,
-  "disclaimer": "This is a SIMULATION. It places no real orders, holds no real money and is connected to no broker. Every number below is computed from real market prices and made-up paper fills. It is not investment advice.",
   "reports": [
     {
       "date": "2026-10-21",
       "day": 1,
       "is_simulation": true,
-      "disclaimer": "This is a SIMULATION. It places no real orders, holds no real money and is connected to no broker. Every number below is computed from real market prices and made-up paper fills. It is not investment advice.",
       "headline": "Day 1 \u2014 Oct 21, 2026: Your $1,000.00 budget is now $999.81 (-$0.19 / -0.02%).",
       "bullets": [
         "Bought 0.4239 shares ($120.00) of ABBV (healthcare) at $283.10 because AI conviction is 57.2%.",
