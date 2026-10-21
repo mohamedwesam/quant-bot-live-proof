@@ -4,7 +4,7 @@
 >
 > This is a SIMULATION. It places no real orders, holds no real money and is connected to no broker. Every number below is computed from real market prices and made-up paper fills. It is not investment advice.
 
-_Last refreshed: 2026-10-21T19:37:44.683731+00:00 · published from `quant-bot-live-proof`._
+_Last refreshed: 2026-10-21T19:46:26.777085+00:00 · published from `quant-bot-live-proof`._
 
 ---
 

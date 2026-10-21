@@ -45,8 +45,8 @@
     {
       "ticker": "QCOM",
       "archetype": "technology",
-      "conviction": 0.5434796656990711,
-      "conviction_p": 0.5434796656990711,
+      "conviction": 0.543479665699071,
+      "conviction_p": 0.543479665699071,
       "edge_bps": 55.7,
       "target_usd": 73.11,
       "yahoo_url": "https://finance.yahoo.com/quote/QCOM"
