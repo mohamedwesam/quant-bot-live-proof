@@ -1,0 +1,398 @@
+{
+  "updated_at": "2026-10-21T19:19:09.992918+00:00",
+  "is_simulation": true,
+  "disclaimer": "This is a SIMULATION. It places no real orders, holds no real money and is connected to no broker. Every number below is computed from real market prices and made-up paper fills. It is not investment advice.",
+  "reports": [
+    {
+      "date": "2026-10-21",
+      "day": 1,
+      "is_simulation": true,
+      "disclaimer": "This is a SIMULATION. It places no real orders, holds no real money and is connected to no broker. Every number below is computed from real market prices and made-up paper fills. It is not investment advice.",
+      "headline": "Day 1 \u2014 Oct 21, 2026: Your $1,000.00 budget is now $999.81 (-$0.19 / -0.02%).",
+      "bullets": [
+        "Bought 0.4239 shares ($120.00) of ABBV (healthcare) at $283.10 because AI conviction is 57.2%.",
+        "Bought 4.0302 shares ($120.00) of PFE (healthcare) at $29.77 because AI conviction is 56.6%.",
+        "Bought 0.8238 shares ($120.00) of COP (energy_materials) at $145.66 because AI conviction is 55.5%.",
+        "Bought 0.1079 shares ($76.61) of META (technology) at $709.99 because AI conviction is 54.3%.",
+        "Bought 0.4105 shares ($73.11) of QCOM (technology) at $178.10 because AI conviction is 54.3%.",
+        "Bought 0.531 shares ($120.00) of CVX (energy_materials) at $225.98 because AI conviction is 54.6%.",
+        "Bought 1.017 shares ($120.00) of WMT (consumer) at $117.99 because AI conviction is 54.5%.",
+        "Bought 1.3288 shares ($86.99) of NFLX (consumer) at $65.46 because AI conviction is 54.2%.",
+        "Bought 0.1737 shares ($95.28) of LMT (industrials) at $548.42 because AI conviction is 54.1%.",
+        "Bought 0.6857 shares ($68.02) of UPS (industrials) at $99.20 because AI conviction is 54.0%."
+      ],
+      "summary": {
+        "initial_budget_usd": 1000.0,
+        "cash_usd": -0.01,
+        "invested_usd": 999.82,
+        "total_equity_usd": 999.81,
+        "net_profit_usd": -0.19,
+        "net_profit_pct": -0.0186,
+        "daily_change_usd": -0.19,
+        "daily_change_pct": -0.0186,
+        "total_fees_slippage_usd": 0.5,
+        "days_elapsed": 1
+      },
+      "trades": [
+        {
+          "date": "2026-10-21",
+          "ticker": "ABBV",
+          "side": "buy",
+          "shares": 0.423876,
+          "price": 283.1,
+          "notional_usd": 120.0,
+          "archetype": "healthcare",
+          "conviction_p": 0.5716677735084665,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.06
+        },
+        {
+          "date": "2026-10-21",
+          "ticker": "PFE",
+          "side": "buy",
+          "shares": 4.030229,
+          "price": 29.77,
+          "notional_usd": 120.0,
+          "archetype": "healthcare",
+          "conviction_p": 0.5660650702611975,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.06
+        },
+        {
+          "date": "2026-10-21",
+          "ticker": "COP",
+          "side": "buy",
+          "shares": 0.823821,
+          "price": 145.66,
+          "notional_usd": 120.0,
+          "archetype": "energy_materials",
+          "conviction_p": 0.5548237158377042,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.06
+        },
+        {
+          "date": "2026-10-21",
+          "ticker": "META",
+          "side": "buy",
+          "shares": 0.107902,
+          "price": 709.99,
+          "notional_usd": 76.61,
+          "archetype": "technology",
+          "conviction_p": 0.5434840826261804,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.04
+        },
+        {
+          "date": "2026-10-21",
+          "ticker": "QCOM",
+          "side": "buy",
+          "shares": 0.410508,
+          "price": 178.1,
+          "notional_usd": 73.11,
+          "archetype": "technology",
+          "conviction_p": 0.5434796656990711,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.04
+        },
+        {
+          "date": "2026-10-21",
+          "ticker": "CVX",
+          "side": "buy",
+          "shares": 0.531025,
+          "price": 225.98,
+          "notional_usd": 120.0,
+          "archetype": "energy_materials",
+          "conviction_p": 0.5460624012946408,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.06
+        },
+        {
+          "date": "2026-10-21",
+          "ticker": "WMT",
+          "side": "buy",
+          "shares": 1.017044,
+          "price": 117.99,
+          "notional_usd": 120.0,
+          "archetype": "consumer",
+          "conviction_p": 0.5453999630711539,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.06
+        },
+        {
+          "date": "2026-10-21",
+          "ticker": "NFLX",
+          "side": "buy",
+          "shares": 1.328848,
+          "price": 65.46,
+          "notional_usd": 86.99,
+          "archetype": "consumer",
+          "conviction_p": 0.5420025835096159,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.04
+        },
+        {
+          "date": "2026-10-21",
+          "ticker": "LMT",
+          "side": "buy",
+          "shares": 0.173734,
+          "price": 548.42,
+          "notional_usd": 95.28,
+          "archetype": "industrials",
+          "conviction_p": 0.5414812864665788,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.05
+        },
+        {
+          "date": "2026-10-21",
+          "ticker": "UPS",
+          "side": "buy",
+          "shares": 0.685654,
+          "price": 99.2,
+          "notional_usd": 68.02,
+          "archetype": "industrials",
+          "conviction_p": 0.5401302034022416,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.03
+        }
+      ],
+      "how_to_check": {
+        "headline": "How to check this is real",
+        "explanation": "Open each link below and compare the price on Yahoo Finance with the price written here. When they match, you are looking at real market prices. The 'locked at' time is the exact moment the paper decision was made.",
+        "positions": [
+          {
+            "ticker": "ABBV",
+            "yahoo_url": "https://finance.yahoo.com/quote/ABBV",
+            "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+            "entry_price": 283.1,
+            "current_price": 283.7
+          },
+          {
+            "ticker": "COP",
+            "yahoo_url": "https://finance.yahoo.com/quote/COP",
+            "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+            "entry_price": 145.66,
+            "current_price": 145.59
+          },
+          {
+            "ticker": "CVX",
+            "yahoo_url": "https://finance.yahoo.com/quote/CVX",
+            "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+            "entry_price": 225.98,
+            "current_price": 225.87
+          },
+          {
+            "ticker": "LMT",
+            "yahoo_url": "https://finance.yahoo.com/quote/LMT",
+            "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+            "entry_price": 548.42,
+            "current_price": 548.15
+          },
+          {
+            "ticker": "META",
+            "yahoo_url": "https://finance.yahoo.com/quote/META",
+            "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+            "entry_price": 709.99,
+            "current_price": 709.64
+          },
+          {
+            "ticker": "NFLX",
+            "yahoo_url": "https://finance.yahoo.com/quote/NFLX",
+            "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+            "entry_price": 65.46,
+            "current_price": 65.43
+          },
+          {
+            "ticker": "PFE",
+            "yahoo_url": "https://finance.yahoo.com/quote/PFE",
+            "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+            "entry_price": 29.77,
+            "current_price": 29.76
+          },
+          {
+            "ticker": "QCOM",
+            "yahoo_url": "https://finance.yahoo.com/quote/QCOM",
+            "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+            "entry_price": 178.1,
+            "current_price": 178.01
+          },
+          {
+            "ticker": "UPS",
+            "yahoo_url": "https://finance.yahoo.com/quote/UPS",
+            "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+            "entry_price": 99.2,
+            "current_price": 99.15
+          },
+          {
+            "ticker": "WMT",
+            "yahoo_url": "https://finance.yahoo.com/quote/WMT",
+            "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+            "entry_price": 117.99,
+            "current_price": 117.93
+          }
+        ]
+      },
+      "positions": [
+        {
+          "ticker": "ABBV",
+          "shares": 0.4238762850120061,
+          "entry_price": 283.10147145080566,
+          "current_price": 283.70001220703125,
+          "cost_basis_usd": 120.0,
+          "current_value_usd": 120.25,
+          "unrealized_pnl_usd": 0.25,
+          "unrealized_pnl_pct": 0.2114,
+          "archetype": "healthcare",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
+        },
+        {
+          "ticker": "COP",
+          "shares": 0.8238205440066518,
+          "entry_price": 145.66279133605957,
+          "current_price": 145.58999633789062,
+          "cost_basis_usd": 120.0,
+          "current_value_usd": 119.94,
+          "unrealized_pnl_usd": -0.06,
+          "unrealized_pnl_pct": -0.05,
+          "archetype": "energy_materials",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/COP"
+        },
+        {
+          "ticker": "CVX",
+          "shares": 0.5310252897438668,
+          "entry_price": 225.97793799591062,
+          "current_price": 225.86500549316406,
+          "cost_basis_usd": 120.0,
+          "current_value_usd": 119.94,
+          "unrealized_pnl_usd": -0.06,
+          "unrealized_pnl_pct": -0.05,
+          "archetype": "energy_materials",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/CVX"
+        },
+        {
+          "ticker": "LMT",
+          "shares": 0.173734198256547,
+          "entry_price": 548.4239772949219,
+          "current_price": 548.14990234375,
+          "cost_basis_usd": 95.28,
+          "current_value_usd": 95.23,
+          "unrealized_pnl_usd": -0.05,
+          "unrealized_pnl_pct": -0.05,
+          "archetype": "industrials",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/LMT"
+        },
+        {
+          "ticker": "META",
+          "shares": 0.10790219345348347,
+          "entry_price": 709.9948346557617,
+          "current_price": 709.6400146484375,
+          "cost_basis_usd": 76.61,
+          "current_value_usd": 76.57,
+          "unrealized_pnl_usd": -0.04,
+          "unrealized_pnl_pct": -0.05,
+          "archetype": "technology",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/META"
+        },
+        {
+          "ticker": "NFLX",
+          "shares": 1.3288480258459339,
+          "entry_price": 65.46271530532836,
+          "current_price": 65.43000030517578,
+          "cost_basis_usd": 86.99,
+          "current_value_usd": 86.95,
+          "unrealized_pnl_usd": -0.04,
+          "unrealized_pnl_pct": -0.05,
+          "archetype": "consumer",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/NFLX"
+        },
+        {
+          "ticker": "PFE",
+          "shares": 4.03022948037034,
+          "entry_price": 29.774979460716246,
+          "current_price": 29.760099411010742,
+          "cost_basis_usd": 120.0,
+          "current_value_usd": 119.94,
+          "unrealized_pnl_usd": -0.06,
+          "unrealized_pnl_pct": -0.05,
+          "archetype": "healthcare",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/PFE"
+        },
+        {
+          "ticker": "QCOM",
+          "shares": 0.41050754984273163,
+          "entry_price": 178.0966026763916,
+          "current_price": 178.00759887695312,
+          "cost_basis_usd": 73.11,
+          "current_value_usd": 73.07,
+          "unrealized_pnl_usd": -0.04,
+          "unrealized_pnl_pct": -0.05,
+          "archetype": "technology",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/QCOM"
+        },
+        {
+          "ticker": "UPS",
+          "shares": 0.6856538533960118,
+          "entry_price": 99.20457627868652,
+          "current_price": 99.15499877929688,
+          "cost_basis_usd": 68.02,
+          "current_value_usd": 67.99,
+          "unrealized_pnl_usd": -0.03,
+          "unrealized_pnl_pct": -0.05,
+          "archetype": "industrials",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/UPS"
+        },
+        {
+          "ticker": "WMT",
+          "shares": 1.0170442607871637,
+          "entry_price": 117.98896530532836,
+          "current_price": 117.93000030517578,
+          "cost_basis_usd": 120.0,
+          "current_value_usd": 119.94,
+          "unrealized_pnl_usd": -0.06,
+          "unrealized_pnl_pct": -0.05,
+          "archetype": "consumer",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/WMT"
+        }
+      ]
+    }
+  ]
+}
