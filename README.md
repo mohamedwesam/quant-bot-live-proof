@@ -1,6 +1,6 @@
 # 📄 Quant Bot — Public Paper-Trading Proof
 
-_Last refreshed: 2026-10-21T20:10:04.166314+00:00 · published from `quant-bot-live-proof`._
+_Last refreshed: 2026-10-21T21:40:56.190164+00:00 · published from `quant-bot-live-proof`._
 
 ---
 
@@ -8,11 +8,11 @@ _Last refreshed: 2026-10-21T20:10:04.166314+00:00 · published from `quant-bot-l
 
 | Metric | Value |
 | --- | ---: |
-| Wallet value (started at $1,000.00) | **$1,001.12** |
-| Total return | **+0.11%** |
-| Profit / loss | $1.12 |
+| Wallet value (started at $1,000.00) | **$1,000.97** |
+| Total return | **+0.10%** |
+| Profit / loss | $0.97 |
 | Cash on hand | $-0.01 |
-| Invested in stocks | $1,001.13 |
+| Invested in stocks | $1,000.98 |
 | Fees + slippage paid | $0.50 |
 | Days tracked | 1 |
 | Started | 2026-10-21 |
@@ -28,9 +28,9 @@ _Last refreshed: 2026-10-21T20:10:04.166314+00:00 · published from `quant-bot-l
 | **META** | technology | 0.1079 | $709.99 | $709.64 | $76.57 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/META) |
 | **NFLX** | consumer | 1.3288 | $65.46 | $65.43 | $86.95 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/NFLX) |
 | **PFE** | healthcare | 4.0302 | $29.77 | $29.86 | $120.34 | +0.29% | [Yahoo](https://finance.yahoo.com/quote/PFE) |
-| **QCOM** | technology | 0.4105 | $178.10 | $178.01 | $73.07 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/QCOM) |
+| **QCOM** | technology | 0.4105 | $178.10 | $177.96 | $73.05 | -0.08% | [Yahoo](https://finance.yahoo.com/quote/QCOM) |
 | **UPS** | industrials | 0.6857 | $99.20 | $99.15 | $67.99 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/UPS) |
-| **WMT** | consumer | 1.0170 | $117.99 | $117.93 | $119.94 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/WMT) |
+| **WMT** | consumer | 1.0170 | $117.99 | $117.80 | $119.81 | -0.16% | [Yahoo](https://finance.yahoo.com/quote/WMT) |
 
 ## Today's scan — diversified Top-10 candidates
 
