@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T09:46:43.758865+00:00",
+  "updated_at": "2026-10-22T16:33:10.852594+00:00",
   "is_simulation": true,
   "reports": [
     {
@@ -389,6 +389,207 @@
           "entry_session": "2026-10-21",
           "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
           "yahoo_url": "https://finance.yahoo.com/quote/WMT"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "day": 2,
+      "is_simulation": true,
+      "headline": "Day 2 \u2014 Oct 22, 2026: Your $1,000.00 budget is now $1,006.44 (+$6.44 / +0.64%).",
+      "bullets": [
+        "Sold 0.1079 shares ($71.15) of META (technology) at $659.40 \u2014 it left the list of names the AI wants to own.",
+        "Sold 0.4107 shares ($71.83) of QCOM (technology) at $174.89 \u2014 the AI decided to own a little less.",
+        "Sold 0.8242 shares ($118.91) of COP (energy_materials) at $144.27 \u2014 the AI decided to own a little less.",
+        "Sold 0.686 shares ($69.44) of UPS (industrials) at $101.22 \u2014 the AI decided to own a little less.",
+        "Sold 1.3295 shares ($89.35) of NFLX (consumer) at $67.21 \u2014 the AI decided to own a little less.",
+        "Sold 0.1738 shares ($101.72) of LMT (industrials) at $585.20 \u2014 the AI decided to own a little less.",
+        "Sold 1.0176 shares ($122.17) of WMT (consumer) at $120.06 \u2014 the AI decided to own a little less.",
+        "Held 0.4239 shares of ABBV \u2014 you paid $283.10 each and they are now $283.54 each, so you are up $0.19.",
+        "Held 0.531 shares of CVX \u2014 you paid $225.98 each and they are now $224.85 each, so you are down $0.60.",
+        "Held 4.0302 shares of PFE \u2014 you paid $29.77 each and they are now $30.34 each, so you are up $2.30."
+      ],
+      "summary": {
+        "initial_budget_usd": 1000.0,
+        "cash_usd": 644.56,
+        "invested_usd": 361.89,
+        "total_equity_usd": 1006.44,
+        "net_profit_usd": 6.44,
+        "net_profit_pct": 0.6443,
+        "daily_change_usd": 5.47,
+        "daily_change_pct": 0.5468,
+        "total_fees_slippage_usd": 0.82,
+        "days_elapsed": 2
+      },
+      "trades": [
+        {
+          "date": "2026-10-22",
+          "ticker": "META",
+          "side": "sell",
+          "shares": 0.107902,
+          "price": 659.4,
+          "notional_usd": 71.15,
+          "archetype": "technology",
+          "conviction_p": 0.0,
+          "reason": "rebalance_exit",
+          "decision_locked_at_utc": "2026-10-22T16:33:10.815978+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.04
+        },
+        {
+          "date": "2026-10-22",
+          "ticker": "QCOM",
+          "side": "sell",
+          "shares": 0.410713,
+          "price": 174.89,
+          "notional_usd": 71.83,
+          "archetype": "technology",
+          "conviction_p": 0.5445498143173315,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-22T16:33:10.815978+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.04
+        },
+        {
+          "date": "2026-10-22",
+          "ticker": "COP",
+          "side": "sell",
+          "shares": 0.824233,
+          "price": 144.27,
+          "notional_usd": 118.91,
+          "archetype": "energy_materials",
+          "conviction_p": 0.5337605921341421,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-22T16:33:10.815978+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.06
+        },
+        {
+          "date": "2026-10-22",
+          "ticker": "UPS",
+          "side": "sell",
+          "shares": 0.685997,
+          "price": 101.22,
+          "notional_usd": 69.44,
+          "archetype": "industrials",
+          "conviction_p": 0.5363220857218635,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-22T16:33:10.815978+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.03
+        },
+        {
+          "date": "2026-10-22",
+          "ticker": "NFLX",
+          "side": "sell",
+          "shares": 1.329513,
+          "price": 67.21,
+          "notional_usd": 89.35,
+          "archetype": "consumer",
+          "conviction_p": 0.5298493938339791,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-22T16:33:10.815978+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.04
+        },
+        {
+          "date": "2026-10-22",
+          "ticker": "LMT",
+          "side": "sell",
+          "shares": 0.173821,
+          "price": 585.2,
+          "notional_usd": 101.72,
+          "archetype": "industrials",
+          "conviction_p": 0.5219387423334896,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-22T16:33:10.815978+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.05
+        },
+        {
+          "date": "2026-10-22",
+          "ticker": "WMT",
+          "side": "sell",
+          "shares": 1.017553,
+          "price": 120.06,
+          "notional_usd": 122.17,
+          "archetype": "consumer",
+          "conviction_p": 0.5201007499171557,
+          "reason": "rebalance_target",
+          "decision_locked_at_utc": "2026-10-22T16:33:10.815978+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.06
+        }
+      ],
+      "how_to_check": {
+        "headline": "How to check this is real",
+        "explanation": "Open each link below and compare the price on Yahoo Finance with the price written here. When they match, you are looking at real market prices. The 'locked at' time is the exact moment the paper decision was made.",
+        "positions": [
+          {
+            "ticker": "ABBV",
+            "yahoo_url": "https://finance.yahoo.com/quote/ABBV",
+            "decision_locked_at_utc": "2026-10-22T16:33:10.815978+00:00",
+            "entry_price": 283.1,
+            "current_price": 283.54
+          },
+          {
+            "ticker": "CVX",
+            "yahoo_url": "https://finance.yahoo.com/quote/CVX",
+            "decision_locked_at_utc": "2026-10-22T16:33:10.815978+00:00",
+            "entry_price": 225.98,
+            "current_price": 224.85
+          },
+          {
+            "ticker": "PFE",
+            "yahoo_url": "https://finance.yahoo.com/quote/PFE",
+            "decision_locked_at_utc": "2026-10-22T16:33:10.815978+00:00",
+            "entry_price": 29.77,
+            "current_price": 30.34
+          }
+        ]
+      },
+      "positions": [
+        {
+          "ticker": "ABBV",
+          "shares": 0.4238762850120061,
+          "entry_price": 283.10147145080566,
+          "current_price": 283.5400085449219,
+          "cost_basis_usd": 120.0,
+          "current_value_usd": 120.19,
+          "unrealized_pnl_usd": 0.19,
+          "unrealized_pnl_pct": 0.1549,
+          "archetype": "healthcare",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-22T16:33:10.815978+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
+        },
+        {
+          "ticker": "CVX",
+          "shares": 0.5310252897438668,
+          "entry_price": 225.97793799591062,
+          "current_price": 224.85499572753906,
+          "cost_basis_usd": 120.0,
+          "current_value_usd": 119.4,
+          "unrealized_pnl_usd": -0.6,
+          "unrealized_pnl_pct": -0.4969,
+          "archetype": "energy_materials",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-22T16:33:10.815978+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/CVX"
+        },
+        {
+          "ticker": "PFE",
+          "shares": 4.03022948037034,
+          "entry_price": 29.774979460716246,
+          "current_price": 30.344999313354492,
+          "cost_basis_usd": 120.0,
+          "current_value_usd": 122.3,
+          "unrealized_pnl_usd": 2.3,
+          "unrealized_pnl_pct": 1.9144,
+          "archetype": "healthcare",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-22T16:33:10.815978+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/PFE"
         }
       ]
     }

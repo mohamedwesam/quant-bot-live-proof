@@ -1,6 +1,6 @@
 # 📄 Quant Bot — Public Paper-Trading Proof
 
-_Last refreshed: 2026-10-22T16:24:02.642646+00:00 · published from `quant-bot-live-proof`._
+_Last refreshed: 2026-10-22T16:33:10.861587+00:00 · published from `quant-bot-live-proof`._
 
 ---
 
@@ -8,29 +8,22 @@ _Last refreshed: 2026-10-22T16:24:02.642646+00:00 · published from `quant-bot-l
 
 | Metric | Value |
 | --- | ---: |
-| Wallet value (started at $1,000.00) | **$1,000.97** |
-| Total return | **+0.10%** |
-| Profit / loss | $0.97 |
-| Cash on hand | $-0.01 |
-| Invested in stocks | $1,000.98 |
-| Fees + slippage paid | $0.50 |
-| Days tracked | 1 |
+| Wallet value (started at $1,000.00) | **$1,006.44** |
+| Total return | **+0.64%** |
+| Profit / loss | $6.44 |
+| Cash on hand | $644.56 |
+| Invested in stocks | $361.89 |
+| Fees + slippage paid | $0.82 |
+| Days tracked | 2 |
 | Started | 2026-10-21 |
 
 ## Today's positions
 
 | Ticker | Sector | Shares | Paid | Now | Value | P&L | Verify |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| **ABBV** | healthcare | 0.4239 | $283.10 | $284.72 | $120.69 | +0.57% | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
-| **COP** | energy_materials | 0.8238 | $145.66 | $145.59 | $119.94 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/COP) |
-| **CVX** | energy_materials | 0.5310 | $225.98 | $226.76 | $120.41 | +0.34% | [Yahoo](https://finance.yahoo.com/quote/CVX) |
-| **LMT** | industrials | 0.1737 | $548.42 | $548.15 | $95.23 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/LMT) |
-| **META** | technology | 0.1079 | $709.99 | $709.64 | $76.57 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/META) |
-| **NFLX** | consumer | 1.3288 | $65.46 | $65.43 | $86.95 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/NFLX) |
-| **PFE** | healthcare | 4.0302 | $29.77 | $29.86 | $120.34 | +0.29% | [Yahoo](https://finance.yahoo.com/quote/PFE) |
-| **QCOM** | technology | 0.4105 | $178.10 | $177.96 | $73.05 | -0.08% | [Yahoo](https://finance.yahoo.com/quote/QCOM) |
-| **UPS** | industrials | 0.6857 | $99.20 | $99.15 | $67.99 | -0.05% | [Yahoo](https://finance.yahoo.com/quote/UPS) |
-| **WMT** | consumer | 1.0170 | $117.99 | $117.80 | $119.81 | -0.16% | [Yahoo](https://finance.yahoo.com/quote/WMT) |
+| **ABBV** | healthcare | 0.4239 | $283.10 | $283.54 | $120.19 | +0.15% | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
+| **CVX** | energy_materials | 0.5310 | $225.98 | $224.85 | $119.40 | -0.50% | [Yahoo](https://finance.yahoo.com/quote/CVX) |
+| **PFE** | healthcare | 4.0302 | $29.77 | $30.34 | $122.30 | +1.91% | [Yahoo](https://finance.yahoo.com/quote/PFE) |
 
 ## Today's scan — diversified Top-10 candidates
 
@@ -74,11 +67,24 @@ _Session 2026-10-22 (data as of 2026-10-22; source live_latest_session)._
 - Bought 0.1737 shares ($95.28) of LMT (industrials) at $548.42 because AI conviction is 54.1%.
 - Bought 0.6857 shares ($68.02) of UPS (industrials) at $99.20 because AI conviction is 54.0%.
 
+#### 2026-10-22 — day 2
+**Day 2 — Oct 22, 2026: Your $1,000.00 budget is now $1,006.44 (+$6.44 / +0.64%).**
+- Sold 0.1079 shares ($71.15) of META (technology) at $659.40 — it left the list of names the AI wants to own.
+- Sold 0.4107 shares ($71.83) of QCOM (technology) at $174.89 — the AI decided to own a little less.
+- Sold 0.8242 shares ($118.91) of COP (energy_materials) at $144.27 — the AI decided to own a little less.
+- Sold 0.686 shares ($69.44) of UPS (industrials) at $101.22 — the AI decided to own a little less.
+- Sold 1.3295 shares ($89.35) of NFLX (consumer) at $67.21 — the AI decided to own a little less.
+- Sold 0.1738 shares ($101.72) of LMT (industrials) at $585.20 — the AI decided to own a little less.
+- Sold 1.0176 shares ($122.17) of WMT (consumer) at $120.06 — the AI decided to own a little less.
+- Held 0.4239 shares of ABBV — you paid $283.10 each and they are now $283.54 each, so you are up $0.19.
+- Held 0.531 shares of CVX — you paid $225.98 each and they are now $224.85 each, so you are down $0.60.
+- Held 4.0302 shares of PFE — you paid $29.77 each and they are now $30.34 each, so you are up $2.30.
+
 ## Daily archive — one immutable file per session
 
 | Date | Wallet value | Return | Snapshot |
 | --- | ---: | ---: | --- |
-| 2026-10-22 | $1,000.97 | +0.10% | [2026-10-22.json](daily/2026-10-22.json) |
+| 2026-10-22 | $1,006.44 | +0.64% | [2026-10-22.json](daily/2026-10-22.json) |
 
 ## How to verify every number
 
