@@ -1,6 +1,6 @@
 # 📄 Quant Bot — Public Paper-Trading Proof
 
-_Last refreshed: 2026-10-21T21:40:56.190164+00:00 · published from `quant-bot-live-proof`._
+_Last refreshed: 2026-10-22T16:24:02.642646+00:00 · published from `quant-bot-live-proof`._
 
 ---
 
@@ -34,20 +34,20 @@ _Last refreshed: 2026-10-21T21:40:56.190164+00:00 · published from `quant-bot-l
 
 ## Today's scan — diversified Top-10 candidates
 
-_Session 2026-10-21 (data as of 2026-10-21; source live_latest_session)._
+_Session 2026-10-22 (data as of 2026-10-22; source live_latest_session)._
 
 | # | Ticker | Sector | Conviction | Edge (bps) | Target | Verify |
 | ---: | --- | --- | ---: | ---: | ---: | --- |
-| 1 | **ABBV** | healthcare | 57.2% | 131.7 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
-| 2 | **PFE** | healthcare | 56.6% | 131.4 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/PFE) |
-| 3 | **COP** | energy_materials | 55.5% | 53.9 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/COP) |
-| 4 | **META** | technology | 54.3% | 55.8 | $76.61 | [Yahoo](https://finance.yahoo.com/quote/META) |
-| 5 | **QCOM** | technology | 54.3% | 55.7 | $73.11 | [Yahoo](https://finance.yahoo.com/quote/QCOM) |
-| 6 | **CVX** | energy_materials | 54.6% | 52.6 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/CVX) |
-| 7 | **WMT** | consumer | 54.5% | 26.0 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/WMT) |
-| 8 | **NFLX** | consumer | 54.2% | 25.5 | $86.99 | [Yahoo](https://finance.yahoo.com/quote/NFLX) |
-| 9 | **LMT** | industrials | 54.1% | 14.4 | $95.28 | [Yahoo](https://finance.yahoo.com/quote/LMT) |
-| 10 | **UPS** | industrials | 54.0% | 14.2 | $68.02 | [Yahoo](https://finance.yahoo.com/quote/UPS) |
+| 1 | **PFE** | healthcare | 55.6% | 125.6 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/PFE) |
+| 2 | **ABBV** | healthcare | 55.3% | 121.8 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
+| 3 | **CVX** | energy_materials | 55.2% | 50.8 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/CVX) |
+| 4 | **QCOM** | technology | 54.5% | 51.8 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/QCOM) |
+| 5 | **COP** | energy_materials | 53.4% | 47.4 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/COP) |
+| 6 | **AAPL** | technology | 53.2% | 48.2 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AAPL) |
+| 7 | **UPS** | industrials | 53.6% | 22.2 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/UPS) |
+| 8 | **NFLX** | consumer | 53.0% | 18.6 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/NFLX) |
+| 9 | **LMT** | industrials | 52.2% | 16.4 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/LMT) |
+| 10 | **WMT** | consumer | 52.0% | 10.2 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/WMT) |
 
 ## Out-of-sample simulation
 
@@ -62,7 +62,7 @@ _Session 2026-10-21 (data as of 2026-10-21; source live_latest_session)._
 ## Daily log (oldest first)
 
 #### 2026-10-21 — day 1
-**Day 1 — Oct 21, 2026: Your $1,000.00 budget is now $999.81 (-$0.19 / -0.02%).**
+**Day 1 — Oct 21, 2026: Your $1,000.00 budget is now $1,000.97 (+$0.97 / +0.10%).**
 - Bought 0.4239 shares ($120.00) of ABBV (healthcare) at $283.10 because AI conviction is 57.2%.
 - Bought 4.0302 shares ($120.00) of PFE (healthcare) at $29.77 because AI conviction is 56.6%.
 - Bought 0.8238 shares ($120.00) of COP (energy_materials) at $145.66 because AI conviction is 55.5%.
@@ -73,6 +73,12 @@ _Session 2026-10-21 (data as of 2026-10-21; source live_latest_session)._
 - Bought 1.3288 shares ($86.99) of NFLX (consumer) at $65.46 because AI conviction is 54.2%.
 - Bought 0.1737 shares ($95.28) of LMT (industrials) at $548.42 because AI conviction is 54.1%.
 - Bought 0.6857 shares ($68.02) of UPS (industrials) at $99.20 because AI conviction is 54.0%.
+
+## Daily archive — one immutable file per session
+
+| Date | Wallet value | Return | Snapshot |
+| --- | ---: | ---: | --- |
+| 2026-10-22 | $1,000.97 | +0.10% | [2026-10-22.json](daily/2026-10-22.json) |
 
 ## How to verify every number
 

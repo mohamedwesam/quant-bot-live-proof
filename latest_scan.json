@@ -1,100 +1,100 @@
 {
-  "session": "2026-10-21",
-  "data_as_of": "2026-10-21",
+  "session": "2026-10-22",
+  "data_as_of": "2026-10-22",
   "stale_days": 0,
   "source": "live_latest_session",
   "capital": 1000.0,
   "notes": [],
   "candidates": [
     {
-      "ticker": "ABBV",
-      "archetype": "healthcare",
-      "conviction": 0.5716677735084665,
-      "conviction_p": 0.5716677735084665,
-      "edge_bps": 131.7,
-      "target_usd": 120.0,
-      "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
-    },
-    {
       "ticker": "PFE",
       "archetype": "healthcare",
-      "conviction": 0.5660650702611975,
-      "conviction_p": 0.5660650702611975,
-      "edge_bps": 131.4,
+      "conviction": 0.5555608709873932,
+      "conviction_p": 0.5555608709873932,
+      "edge_bps": 125.6,
       "target_usd": 120.0,
       "yahoo_url": "https://finance.yahoo.com/quote/PFE"
     },
     {
-      "ticker": "COP",
-      "archetype": "energy_materials",
-      "conviction": 0.5548237158377042,
-      "conviction_p": 0.5548237158377042,
-      "edge_bps": 53.9,
+      "ticker": "ABBV",
+      "archetype": "healthcare",
+      "conviction": 0.5526857672371067,
+      "conviction_p": 0.5526857672371067,
+      "edge_bps": 121.8,
       "target_usd": 120.0,
-      "yahoo_url": "https://finance.yahoo.com/quote/COP"
-    },
-    {
-      "ticker": "META",
-      "archetype": "technology",
-      "conviction": 0.5434840826261804,
-      "conviction_p": 0.5434840826261804,
-      "edge_bps": 55.8,
-      "target_usd": 76.61,
-      "yahoo_url": "https://finance.yahoo.com/quote/META"
-    },
-    {
-      "ticker": "QCOM",
-      "archetype": "technology",
-      "conviction": 0.543479665699071,
-      "conviction_p": 0.543479665699071,
-      "edge_bps": 55.7,
-      "target_usd": 73.11,
-      "yahoo_url": "https://finance.yahoo.com/quote/QCOM"
+      "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
     },
     {
       "ticker": "CVX",
       "archetype": "energy_materials",
-      "conviction": 0.5460624012946408,
-      "conviction_p": 0.5460624012946408,
-      "edge_bps": 52.6,
+      "conviction": 0.5520410657230358,
+      "conviction_p": 0.5520410657230358,
+      "edge_bps": 50.8,
       "target_usd": 120.0,
       "yahoo_url": "https://finance.yahoo.com/quote/CVX"
     },
     {
-      "ticker": "WMT",
-      "archetype": "consumer",
-      "conviction": 0.5453999630711539,
-      "conviction_p": 0.5453999630711539,
-      "edge_bps": 26.0,
-      "target_usd": 120.0,
-      "yahoo_url": "https://finance.yahoo.com/quote/WMT"
+      "ticker": "QCOM",
+      "archetype": "technology",
+      "conviction": 0.5445498143173315,
+      "conviction_p": 0.5445498143173315,
+      "edge_bps": 51.8,
+      "target_usd": 0.0,
+      "yahoo_url": "https://finance.yahoo.com/quote/QCOM"
+    },
+    {
+      "ticker": "COP",
+      "archetype": "energy_materials",
+      "conviction": 0.5337605921341421,
+      "conviction_p": 0.5337605921341421,
+      "edge_bps": 47.4,
+      "target_usd": 0.0,
+      "yahoo_url": "https://finance.yahoo.com/quote/COP"
+    },
+    {
+      "ticker": "AAPL",
+      "archetype": "technology",
+      "conviction": 0.5315805009164447,
+      "conviction_p": 0.5315805009164447,
+      "edge_bps": 48.2,
+      "target_usd": 0.0,
+      "yahoo_url": "https://finance.yahoo.com/quote/AAPL"
+    },
+    {
+      "ticker": "UPS",
+      "archetype": "industrials",
+      "conviction": 0.5363220857218635,
+      "conviction_p": 0.5363220857218635,
+      "edge_bps": 22.2,
+      "target_usd": 0.0,
+      "yahoo_url": "https://finance.yahoo.com/quote/UPS"
     },
     {
       "ticker": "NFLX",
       "archetype": "consumer",
-      "conviction": 0.5420025835096159,
-      "conviction_p": 0.5420025835096159,
-      "edge_bps": 25.5,
-      "target_usd": 86.99,
+      "conviction": 0.5298493938339791,
+      "conviction_p": 0.5298493938339791,
+      "edge_bps": 18.6,
+      "target_usd": 0.0,
       "yahoo_url": "https://finance.yahoo.com/quote/NFLX"
     },
     {
       "ticker": "LMT",
       "archetype": "industrials",
-      "conviction": 0.5414812864665788,
-      "conviction_p": 0.5414812864665788,
-      "edge_bps": 14.4,
-      "target_usd": 95.28,
+      "conviction": 0.5219387423334896,
+      "conviction_p": 0.5219387423334896,
+      "edge_bps": 16.4,
+      "target_usd": 0.0,
       "yahoo_url": "https://finance.yahoo.com/quote/LMT"
     },
     {
-      "ticker": "UPS",
-      "archetype": "industrials",
-      "conviction": 0.5401302034022416,
-      "conviction_p": 0.5401302034022416,
-      "edge_bps": 14.2,
-      "target_usd": 68.02,
-      "yahoo_url": "https://finance.yahoo.com/quote/UPS"
+      "ticker": "WMT",
+      "archetype": "consumer",
+      "conviction": 0.5201007499171557,
+      "conviction_p": 0.5201007499171557,
+      "edge_bps": 10.2,
+      "target_usd": 0.0,
+      "yahoo_url": "https://finance.yahoo.com/quote/WMT"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-21T19:19:09.992918+00:00",
+  "updated_at": "2026-10-22T09:46:43.758865+00:00",
   "is_simulation": true,
   "reports": [
     {
       "date": "2026-10-21",
       "day": 1,
       "is_simulation": true,
-      "headline": "Day 1 \u2014 Oct 21, 2026: Your $1,000.00 budget is now $999.81 (-$0.19 / -0.02%).",
+      "headline": "Day 1 \u2014 Oct 21, 2026: Your $1,000.00 budget is now $1,000.97 (+$0.97 / +0.10%).",
       "bullets": [
         "Bought 0.4239 shares ($120.00) of ABBV (healthcare) at $283.10 because AI conviction is 57.2%.",
         "Bought 4.0302 shares ($120.00) of PFE (healthcare) at $29.77 because AI conviction is 56.6%.",
@@ -22,12 +22,12 @@
       "summary": {
         "initial_budget_usd": 1000.0,
         "cash_usd": -0.01,
-        "invested_usd": 999.82,
-        "total_equity_usd": 999.81,
-        "net_profit_usd": -0.19,
-        "net_profit_pct": -0.0186,
-        "daily_change_usd": -0.19,
-        "daily_change_pct": -0.0186,
+        "invested_usd": 1000.98,
+        "total_equity_usd": 1000.97,
+        "net_profit_usd": 0.97,
+        "net_profit_pct": 0.0971,
+        "daily_change_usd": 0.97,
+        "daily_change_pct": 0.0971,
         "total_fees_slippage_usd": 0.5,
         "days_elapsed": 1
       },
@@ -182,7 +182,7 @@
             "yahoo_url": "https://finance.yahoo.com/quote/ABBV",
             "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
             "entry_price": 283.1,
-            "current_price": 283.7
+            "current_price": 284.72
           },
           {
             "ticker": "COP",
@@ -196,7 +196,7 @@
             "yahoo_url": "https://finance.yahoo.com/quote/CVX",
             "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
             "entry_price": 225.98,
-            "current_price": 225.87
+            "current_price": 226.76
           },
           {
             "ticker": "LMT",
@@ -224,14 +224,14 @@
             "yahoo_url": "https://finance.yahoo.com/quote/PFE",
             "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
             "entry_price": 29.77,
-            "current_price": 29.76
+            "current_price": 29.86
           },
           {
             "ticker": "QCOM",
             "yahoo_url": "https://finance.yahoo.com/quote/QCOM",
             "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
             "entry_price": 178.1,
-            "current_price": 178.01
+            "current_price": 177.96
           },
           {
             "ticker": "UPS",
@@ -245,7 +245,7 @@
             "yahoo_url": "https://finance.yahoo.com/quote/WMT",
             "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
             "entry_price": 117.99,
-            "current_price": 117.93
+            "current_price": 117.8
           }
         ]
       },
@@ -254,11 +254,11 @@
           "ticker": "ABBV",
           "shares": 0.4238762850120061,
           "entry_price": 283.10147145080566,
-          "current_price": 283.70001220703125,
+          "current_price": 284.7200012207031,
           "cost_basis_usd": 120.0,
-          "current_value_usd": 120.25,
-          "unrealized_pnl_usd": 0.25,
-          "unrealized_pnl_pct": 0.2114,
+          "current_value_usd": 120.69,
+          "unrealized_pnl_usd": 0.69,
+          "unrealized_pnl_pct": 0.5717,
           "archetype": "healthcare",
           "entry_session": "2026-10-21",
           "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
@@ -282,11 +282,11 @@
           "ticker": "CVX",
           "shares": 0.5310252897438668,
           "entry_price": 225.97793799591062,
-          "current_price": 225.86500549316406,
+          "current_price": 226.75750732421875,
           "cost_basis_usd": 120.0,
-          "current_value_usd": 119.94,
-          "unrealized_pnl_usd": -0.06,
-          "unrealized_pnl_pct": -0.05,
+          "current_value_usd": 120.41,
+          "unrealized_pnl_usd": 0.41,
+          "unrealized_pnl_pct": 0.345,
           "archetype": "energy_materials",
           "entry_session": "2026-10-21",
           "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
@@ -338,11 +338,11 @@
           "ticker": "PFE",
           "shares": 4.03022948037034,
           "entry_price": 29.774979460716246,
-          "current_price": 29.760099411010742,
+          "current_price": 29.860000610351562,
           "cost_basis_usd": 120.0,
-          "current_value_usd": 119.94,
-          "unrealized_pnl_usd": -0.06,
-          "unrealized_pnl_pct": -0.05,
+          "current_value_usd": 120.34,
+          "unrealized_pnl_usd": 0.34,
+          "unrealized_pnl_pct": 0.2855,
           "archetype": "healthcare",
           "entry_session": "2026-10-21",
           "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
@@ -352,11 +352,11 @@
           "ticker": "QCOM",
           "shares": 0.41050754984273163,
           "entry_price": 178.0966026763916,
-          "current_price": 178.00759887695312,
+          "current_price": 177.9600067138672,
           "cost_basis_usd": 73.11,
-          "current_value_usd": 73.07,
-          "unrealized_pnl_usd": -0.04,
-          "unrealized_pnl_pct": -0.05,
+          "current_value_usd": 73.05,
+          "unrealized_pnl_usd": -0.06,
+          "unrealized_pnl_pct": -0.0767,
           "archetype": "technology",
           "entry_session": "2026-10-21",
           "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
@@ -380,11 +380,11 @@
           "ticker": "WMT",
           "shares": 1.0170442607871637,
           "entry_price": 117.98896530532836,
-          "current_price": 117.93000030517578,
+          "current_price": 117.80000305175781,
           "cost_basis_usd": 120.0,
-          "current_value_usd": 119.94,
-          "unrealized_pnl_usd": -0.06,
-          "unrealized_pnl_pct": -0.05,
+          "current_value_usd": 119.81,
+          "unrealized_pnl_usd": -0.19,
+          "unrealized_pnl_pct": -0.1602,
           "archetype": "consumer",
           "entry_session": "2026-10-21",
           "decision_locked_at_utc": "2026-10-21T19:17:50.812459+00:00",
