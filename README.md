@@ -1,6 +1,6 @@
 # 📄 Quant Bot — Public Paper-Trading Proof
 
-_Last refreshed: 2026-10-22T16:41:46.264106+00:00 · published from `quant-bot-live-proof`._
+_Last refreshed: 2026-10-23T00:24:03.010862+00:00 · published from `quant-bot-live-proof`._
 
 ---
 
@@ -8,39 +8,38 @@ _Last refreshed: 2026-10-22T16:41:46.264106+00:00 · published from `quant-bot-l
 
 | Metric | Value |
 | --- | ---: |
-| Wallet value (started at $1,000.00) | **$1,006.65** |
-| Total return | **+0.66%** |
-| Profit / loss | $6.65 |
-| Cash on hand | $644.56 |
-| Invested in stocks | $362.09 |
-| Fees + slippage paid | $0.82 |
-| Days tracked | 2 |
+| Wallet value (started at $1,000.00) | **$1,008.29** |
+| Total return | **+0.83%** |
+| Profit / loss | $8.29 |
+| Cash on hand | $766.11 |
+| Invested in stocks | $242.18 |
+| Fees + slippage paid | $0.88 |
+| Days tracked | 3 |
 | Started | 2026-10-21 |
 
 ## Today's positions
 
 | Ticker | Sector | Shares | Paid | Now | Value | P&L | Verify |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| **ABBV** | healthcare | 0.4239 | $283.10 | $284.01 | $120.39 | +0.32% | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
-| **CVX** | energy_materials | 0.5310 | $225.98 | $224.85 | $119.40 | -0.50% | [Yahoo](https://finance.yahoo.com/quote/CVX) |
-| **PFE** | healthcare | 4.0302 | $29.77 | $30.34 | $122.30 | +1.91% | [Yahoo](https://finance.yahoo.com/quote/PFE) |
+| **ABBV** | healthcare | 0.4239 | $283.10 | $283.69 | $120.25 | +0.21% | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
+| **PFE** | healthcare | 4.0302 | $29.77 | $30.25 | $121.93 | +1.61% | [Yahoo](https://finance.yahoo.com/quote/PFE) |
 
 ## Today's scan — diversified Top-10 candidates
 
-_Session 2026-10-22 (data as of 2026-10-22; source live_latest_session)._
+_Session 2026-10-23 (data as of 2026-10-23; source live_latest_session)._
 
 | # | Ticker | Sector | Conviction | Edge (bps) | Target | Verify |
 | ---: | --- | --- | ---: | ---: | ---: | --- |
-| 1 | **PFE** | healthcare | 55.6% | 125.6 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/PFE) |
-| 2 | **ABBV** | healthcare | 55.3% | 121.8 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
-| 3 | **CVX** | energy_materials | 55.2% | 50.8 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/CVX) |
-| 4 | **QCOM** | technology | 54.5% | 51.8 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/QCOM) |
-| 5 | **COP** | energy_materials | 53.4% | 47.4 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/COP) |
-| 6 | **AAPL** | technology | 53.2% | 48.2 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AAPL) |
-| 7 | **UPS** | industrials | 53.6% | 22.2 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/UPS) |
-| 8 | **NFLX** | consumer | 53.0% | 18.6 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/NFLX) |
-| 9 | **LMT** | industrials | 52.2% | 16.4 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/LMT) |
-| 10 | **WMT** | consumer | 52.0% | 10.2 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/WMT) |
+| 1 | **ABBV** | healthcare | 56.7% | 124.6 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
+| 2 | **PFE** | healthcare | 55.9% | 118.9 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/PFE) |
+| 3 | **CVX** | energy_materials | 54.7% | 47.9 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/CVX) |
+| 4 | **ADBE** | technology | 53.1% | 47.8 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ADBE) |
+| 5 | **A** | technology | 52.8% | 19.9 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/A) |
+| 6 | **ADNT** | industrials | 51.6% | 16.3 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ADNT) |
+| 7 | **ACMR** | industrials | 50.2% | 12.2 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ACMR) |
+| 8 | **AFGE** | financials | 51.4% | 0.0 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AFGE) |
+| 9 | **AEP** | utilities | 50.7% | 10.3 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AEP) |
+| 10 | **ALTG** | consumer | 47.9% | 1.2 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ALTG) |
 
 ## Out-of-sample simulation
 
@@ -80,10 +79,17 @@ _Session 2026-10-22 (data as of 2026-10-22; source live_latest_session)._
 - Held 0.531 shares of CVX — you paid $225.98 each and they are now $224.85 each, so you are down $0.60.
 - Held 4.0302 shares of PFE — you paid $29.77 each and they are now $30.34 each, so you are up $2.30.
 
+#### 2026-10-23 — day 3
+**Day 3 — Oct 23, 2026: Your $1,000.00 budget is now $1,008.29 (+$8.29 / +0.83%).**
+- Sold 0.5313 shares ($121.55) of CVX (energy_materials) at $228.79 — the AI decided to own a little less.
+- Held 0.4239 shares of ABBV — you paid $283.10 each and they are now $283.69 each, so you are up $0.25.
+- Held 4.0302 shares of PFE — you paid $29.77 each and they are now $30.25 each, so you are up $1.93.
+
 ## Daily archive — one immutable file per session
 
 | Date | Wallet value | Return | Snapshot |
 | --- | ---: | ---: | --- |
+| 2026-10-23 | $1,008.29 | +0.83% | [2026-10-23.json](daily/2026-10-23.json) |
 | 2026-10-22 | $1,006.65 | +0.66% | [2026-10-22.json](daily/2026-10-22.json) |
 
 ## How to verify every number
