@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T00:24:03.003246+00:00",
+  "updated_at": "2026-10-26T14:21:15.734497+00:00",
   "is_simulation": true,
   "reports": [
     {
@@ -597,21 +597,21 @@
       "date": "2026-10-23",
       "day": 3,
       "is_simulation": true,
-      "headline": "Day 3 \u2014 Oct 23, 2026: Your $1,000.00 budget is now $1,008.29 (+$8.29 / +0.83%).",
+      "headline": "Day 3 \u2014 Oct 23, 2026: Your $1,000.00 budget is now $1,007.09 (+$7.09 / +0.71%).",
       "bullets": [
         "Sold 0.5313 shares ($121.55) of CVX (energy_materials) at $228.79 \u2014 the AI decided to own a little less.",
-        "Held 0.4239 shares of ABBV \u2014 you paid $283.10 each and they are now $283.69 each, so you are up $0.25.",
-        "Held 4.0302 shares of PFE \u2014 you paid $29.77 each and they are now $30.25 each, so you are up $1.93."
+        "Held 0.4239 shares of ABBV \u2014 you paid $283.10 each and they are now $282.70 each, so you are down $0.17.",
+        "Held 4.0302 shares of PFE \u2014 you paid $29.77 each and they are now $30.06 each, so you are up $1.15."
       ],
       "summary": {
         "initial_budget_usd": 1000.0,
         "cash_usd": 766.11,
-        "invested_usd": 242.18,
-        "total_equity_usd": 1008.29,
-        "net_profit_usd": 8.29,
-        "net_profit_pct": 0.8292,
-        "daily_change_usd": 0.22,
-        "daily_change_pct": 0.022,
+        "invested_usd": 240.98,
+        "total_equity_usd": 1007.09,
+        "net_profit_usd": 7.09,
+        "net_profit_pct": 0.7088,
+        "daily_change_usd": -0.98,
+        "daily_change_pct": -0.0974,
         "total_fees_slippage_usd": 0.88,
         "days_elapsed": 3
       },
@@ -640,14 +640,14 @@
             "yahoo_url": "https://finance.yahoo.com/quote/ABBV",
             "decision_locked_at_utc": "2026-10-23T00:24:02.952278+00:00",
             "entry_price": 283.1,
-            "current_price": 283.69
+            "current_price": 282.7
           },
           {
             "ticker": "PFE",
             "yahoo_url": "https://finance.yahoo.com/quote/PFE",
             "decision_locked_at_utc": "2026-10-23T00:24:02.952278+00:00",
             "entry_price": 29.77,
-            "current_price": 30.25
+            "current_price": 30.06
           }
         ]
       },
@@ -656,11 +656,11 @@
           "ticker": "ABBV",
           "shares": 0.4238762850120061,
           "entry_price": 283.10147145080566,
-          "current_price": 283.69000244140625,
+          "current_price": 282.70001220703125,
           "cost_basis_usd": 120.0,
-          "current_value_usd": 120.25,
-          "unrealized_pnl_usd": 0.25,
-          "unrealized_pnl_pct": 0.2079,
+          "current_value_usd": 119.83,
+          "unrealized_pnl_usd": -0.17,
+          "unrealized_pnl_pct": -0.1418,
           "archetype": "healthcare",
           "entry_session": "2026-10-21",
           "decision_locked_at_utc": "2026-10-23T00:24:02.952278+00:00",
@@ -670,14 +670,87 @@
           "ticker": "PFE",
           "shares": 4.03022948037034,
           "entry_price": 29.774979460716246,
-          "current_price": 30.2549991607666,
+          "current_price": 30.059900283813477,
           "cost_basis_usd": 120.0,
-          "current_value_usd": 121.93,
-          "unrealized_pnl_usd": 1.93,
-          "unrealized_pnl_pct": 1.6122,
+          "current_value_usd": 121.15,
+          "unrealized_pnl_usd": 1.15,
+          "unrealized_pnl_pct": 0.9569,
           "archetype": "healthcare",
           "entry_session": "2026-10-21",
           "decision_locked_at_utc": "2026-10-23T00:24:02.952278+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/PFE"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "day": 4,
+      "is_simulation": true,
+      "headline": "Day 4 \u2014 Oct 26, 2026: Your $1,000.00 budget is now $1,010.07 (+$10.07 / +1.01%).",
+      "bullets": [
+        "Held 0.4239 shares of ABBV \u2014 you paid $283.10 each and they are now $288.49 each, so you are up $2.29.",
+        "Held 4.0302 shares of PFE \u2014 you paid $29.77 each and they are now $30.19 each, so you are up $1.67."
+      ],
+      "summary": {
+        "initial_budget_usd": 1000.0,
+        "cash_usd": 766.11,
+        "invested_usd": 243.96,
+        "total_equity_usd": 1010.07,
+        "net_profit_usd": 10.07,
+        "net_profit_pct": 1.0066,
+        "daily_change_usd": 2.98,
+        "daily_change_pct": 0.2955,
+        "total_fees_slippage_usd": 0.88,
+        "days_elapsed": 4
+      },
+      "trades": [],
+      "how_to_check": {
+        "headline": "How to check this is real",
+        "explanation": "Open each link below and compare the price on Yahoo Finance with the price written here. When they match, you are looking at real market prices. The 'locked at' time is the exact moment the paper decision was made.",
+        "positions": [
+          {
+            "ticker": "ABBV",
+            "yahoo_url": "https://finance.yahoo.com/quote/ABBV",
+            "decision_locked_at_utc": "2026-10-26T14:21:15.714016+00:00",
+            "entry_price": 283.1,
+            "current_price": 288.49
+          },
+          {
+            "ticker": "PFE",
+            "yahoo_url": "https://finance.yahoo.com/quote/PFE",
+            "decision_locked_at_utc": "2026-10-26T14:21:15.714016+00:00",
+            "entry_price": 29.77,
+            "current_price": 30.19
+          }
+        ]
+      },
+      "positions": [
+        {
+          "ticker": "ABBV",
+          "shares": 0.4238762850120061,
+          "entry_price": 283.10147145080566,
+          "current_price": 288.4949951171875,
+          "cost_basis_usd": 120.0,
+          "current_value_usd": 122.29,
+          "unrealized_pnl_usd": 2.29,
+          "unrealized_pnl_pct": 1.9052,
+          "archetype": "healthcare",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-26T14:21:15.714016+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
+        },
+        {
+          "ticker": "PFE",
+          "shares": 4.03022948037034,
+          "entry_price": 29.774979460716246,
+          "current_price": 30.189899444580078,
+          "cost_basis_usd": 120.0,
+          "current_value_usd": 121.67,
+          "unrealized_pnl_usd": 1.67,
+          "unrealized_pnl_pct": 1.3935,
+          "archetype": "healthcare",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-10-26T14:21:15.714016+00:00",
           "yahoo_url": "https://finance.yahoo.com/quote/PFE"
         }
       ]

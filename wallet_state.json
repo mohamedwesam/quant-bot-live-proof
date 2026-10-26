@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-10-23T00:24:03.002236+00:00",
+  "updated_at": "2026-10-26T14:21:15.731859+00:00",
   "is_simulation": true,
   "initial_budget_usd": 1000.0,
   "start_date": "2026-10-21",
-  "days_elapsed": 3,
+  "days_elapsed": 4,
   "cash_balance_usd": 766.11,
-  "invested_market_value_usd": 242.18,
-  "total_equity_usd": 1008.29,
-  "net_profit_usd": 8.29,
-  "net_profit_pct": 0.8292,
+  "invested_market_value_usd": 243.96,
+  "total_equity_usd": 1010.07,
+  "net_profit_usd": 10.07,
+  "net_profit_pct": 1.0066,
   "total_fees_slippage_usd": 0.88,
   "benchmark_spy_start_price": null,
   "benchmark_spy_last_price": null,
-  "last_evaluated_session": "2026-10-23",
+  "last_evaluated_session": "2026-10-26",
   "positions": [
     {
       "ticker": "ABBV",
       "shares": 0.4238762850120061,
       "entry_price": 283.10147145080566,
-      "current_price": 283.69000244140625,
+      "current_price": 288.4949951171875,
       "cost_basis_usd": 120.0,
-      "current_value_usd": 120.25,
-      "unrealized_pnl_usd": 0.25,
-      "unrealized_pnl_pct": 0.2079,
+      "current_value_usd": 122.29,
+      "unrealized_pnl_usd": 2.29,
+      "unrealized_pnl_pct": 1.9052,
       "archetype": "healthcare",
       "entry_session": "2026-10-21",
-      "decision_locked_at_utc": "2026-10-23T00:24:02.952278+00:00",
+      "decision_locked_at_utc": "2026-10-26T14:21:15.714016+00:00",
       "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
     },
     {
       "ticker": "PFE",
       "shares": 4.03022948037034,
       "entry_price": 29.774979460716246,
-      "current_price": 30.2549991607666,
+      "current_price": 30.189899444580078,
       "cost_basis_usd": 120.0,
-      "current_value_usd": 121.93,
-      "unrealized_pnl_usd": 1.93,
-      "unrealized_pnl_pct": 1.6122,
+      "current_value_usd": 121.67,
+      "unrealized_pnl_usd": 1.67,
+      "unrealized_pnl_pct": 1.3935,
       "archetype": "healthcare",
       "entry_session": "2026-10-21",
-      "decision_locked_at_utc": "2026-10-23T00:24:02.952278+00:00",
+      "decision_locked_at_utc": "2026-10-26T14:21:15.714016+00:00",
       "yahoo_url": "https://finance.yahoo.com/quote/PFE"
     }
   ],
@@ -68,30 +68,26 @@
     },
     {
       "date": "2026-10-23",
-      "total_equity_usd": 1008.29,
+      "total_equity_usd": 1007.09,
       "cash_usd": 766.11,
-      "invested_usd": 242.18,
-      "daily_change_usd": 0.22,
-      "daily_change_pct": 0.022,
+      "invested_usd": 240.98,
+      "daily_change_usd": -0.98,
+      "daily_change_pct": -0.0974,
       "benchmark_spy_eq_usd": 1000.0,
-      "net_profit_usd": 8.29,
-      "net_profit_pct": 0.8292
+      "net_profit_usd": 7.09,
+      "net_profit_pct": 0.7088
+    },
+    {
+      "date": "2026-10-26",
+      "total_equity_usd": 1010.07,
+      "cash_usd": 766.11,
+      "invested_usd": 243.96,
+      "daily_change_usd": 2.98,
+      "daily_change_pct": 0.2955,
+      "benchmark_spy_eq_usd": 1000.0,
+      "net_profit_usd": 10.07,
+      "net_profit_pct": 1.0066
     }
   ],
-  "trades": [
-    {
-      "date": "2026-10-23",
-      "ticker": "CVX",
-      "side": "sell",
-      "shares": 0.531291,
-      "price": 228.79,
-      "notional_usd": 121.55,
-      "archetype": "energy_materials",
-      "conviction_p": 0.5467371858170237,
-      "reason": "rebalance_target",
-      "decision_locked_at_utc": "2026-10-23T00:24:02.952278+00:00",
-      "slippage_bps": 5.0,
-      "fees_usd": 0.06
-    }
-  ]
+  "trades": []
 }
