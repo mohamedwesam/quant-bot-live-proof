@@ -1,6 +1,6 @@
 {
-  "session": "2026-10-26",
-  "data_as_of": "2026-10-26",
+  "session": "2026-10-27",
+  "data_as_of": "2026-10-27",
   "stale_days": 0,
   "source": "live_latest_session",
   "capital": 1000.0,
@@ -9,92 +9,92 @@
     {
       "ticker": "ABBV",
       "archetype": "healthcare",
-      "conviction": 0.5696822699924752,
-      "conviction_p": 0.5696822699924752,
-      "edge_bps": 124.3,
+      "conviction": 0.5710084053981298,
+      "conviction_p": 0.5710084053981298,
+      "edge_bps": 124.7,
       "target_usd": 120.0,
       "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
     },
     {
       "ticker": "PFE",
       "archetype": "healthcare",
-      "conviction": 0.5659082886043522,
-      "conviction_p": 0.5659082886043522,
-      "edge_bps": 119.2,
+      "conviction": 0.5628275207445101,
+      "conviction_p": 0.5628275207445101,
+      "edge_bps": 118.8,
       "target_usd": 120.0,
       "yahoo_url": "https://finance.yahoo.com/quote/PFE"
     },
     {
       "ticker": "AAPL",
       "archetype": "technology",
-      "conviction": 0.5330970110175743,
-      "conviction_p": 0.5330970110175743,
-      "edge_bps": 48.6,
+      "conviction": 0.534170330844803,
+      "conviction_p": 0.534170330844803,
+      "edge_bps": 50.2,
       "target_usd": 0.0,
       "yahoo_url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
-      "ticker": "ADBE",
+      "ticker": "A",
       "archetype": "technology",
-      "conviction": 0.5309388587531829,
-      "conviction_p": 0.5309388587531829,
-      "edge_bps": 20.4,
+      "conviction": 0.5288233243973781,
+      "conviction_p": 0.5288233243973781,
+      "edge_bps": 20.8,
       "target_usd": 0.0,
-      "yahoo_url": "https://finance.yahoo.com/quote/ADBE"
+      "yahoo_url": "https://finance.yahoo.com/quote/A"
     },
     {
       "ticker": "ADNT",
       "archetype": "industrials",
-      "conviction": 0.526765827365004,
-      "conviction_p": 0.526765827365004,
-      "edge_bps": 18.6,
+      "conviction": 0.5194201186535784,
+      "conviction_p": 0.5194201186535784,
+      "edge_bps": 15.7,
       "target_usd": 0.0,
       "yahoo_url": "https://finance.yahoo.com/quote/ADNT"
     },
     {
-      "ticker": "ALTG",
-      "archetype": "consumer",
-      "conviction": 0.505899839674352,
-      "conviction_p": 0.505899839674352,
-      "edge_bps": 10.6,
+      "ticker": "ACMR",
+      "archetype": "industrials",
+      "conviction": 0.5027497587291294,
+      "conviction_p": 0.5027497587291294,
+      "edge_bps": 14.2,
       "target_usd": 0.0,
-      "yahoo_url": "https://finance.yahoo.com/quote/ALTG"
+      "yahoo_url": "https://finance.yahoo.com/quote/ACMR"
     },
     {
       "ticker": "AEP",
       "archetype": "utilities",
-      "conviction": 0.5090259218130118,
-      "conviction_p": 0.5090259218130118,
-      "edge_bps": 18.2,
+      "conviction": 0.5103069475656627,
+      "conviction_p": 0.5103069475656627,
+      "edge_bps": 15.6,
       "target_usd": 0.0,
       "yahoo_url": "https://finance.yahoo.com/quote/AEP"
     },
     {
-      "ticker": "AFGE",
-      "archetype": "financials",
-      "conviction": 0.5155190913988943,
-      "conviction_p": 0.5155190913988943,
-      "edge_bps": 0.0,
-      "target_usd": 0.0,
-      "yahoo_url": "https://finance.yahoo.com/quote/AFGE"
-    },
-    {
       "ticker": "AGO",
       "archetype": "financials",
-      "conviction": 0.5218291617859132,
-      "conviction_p": 0.5218291617859132,
+      "conviction": 0.5119722469445874,
+      "conviction_p": 0.5119722469445874,
       "edge_bps": 0.0,
       "target_usd": 0.0,
       "yahoo_url": "https://finance.yahoo.com/quote/AGO"
     },
     {
-      "ticker": "ACMR",
-      "archetype": "industrials",
-      "conviction": 0.4983771397650566,
-      "conviction_p": 0.4983771397650566,
-      "edge_bps": 18.1,
+      "ticker": "ABAT",
+      "archetype": "energy_materials",
+      "conviction": 0.45198750861189274,
+      "conviction_p": 0.45198750861189274,
+      "edge_bps": -4.1,
       "target_usd": 0.0,
-      "yahoo_url": "https://finance.yahoo.com/quote/ACMR"
+      "yahoo_url": "https://finance.yahoo.com/quote/ABAT"
+    },
+    {
+      "ticker": "AIFA",
+      "archetype": "consumer",
+      "conviction": 0.40934989010081946,
+      "conviction_p": 0.40934989010081946,
+      "edge_bps": 0.2,
+      "target_usd": 0.0,
+      "yahoo_url": "https://finance.yahoo.com/quote/AIFA"
     }
   ]
 }
