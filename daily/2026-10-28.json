@@ -1,0 +1,3491 @@
+{
+  "date": "2026-10-28",
+  "generated_at_utc": "2026-10-28T14:13:02.865434+00:00",
+  "wallet": {
+    "updated_at": "2026-10-28T14:13:02.858009+00:00",
+    "is_simulation": true,
+    "initial_budget_usd": 1000.0,
+    "start_date": "2026-10-21",
+    "days_elapsed": 6,
+    "cash_balance_usd": 766.11,
+    "invested_market_value_usd": 241.28,
+    "total_equity_usd": 1007.39,
+    "net_profit_usd": 7.39,
+    "net_profit_pct": 0.739,
+    "total_fees_slippage_usd": 0.88,
+    "benchmark_spy_start_price": null,
+    "benchmark_spy_last_price": null,
+    "last_evaluated_session": "2026-10-28",
+    "positions": [
+      {
+        "ticker": "ABBV",
+        "shares": 0.4238762850120061,
+        "entry_price": 283.10147145080566,
+        "current_price": 286.6499938964844,
+        "cost_basis_usd": 120.0,
+        "current_value_usd": 121.5,
+        "unrealized_pnl_usd": 1.5,
+        "unrealized_pnl_pct": 1.2534,
+        "archetype": "healthcare",
+        "entry_session": "2026-10-21",
+        "decision_locked_at_utc": "2026-10-28T14:13:02.844954+00:00",
+        "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
+      },
+      {
+        "ticker": "PFE",
+        "shares": 4.03022948037034,
+        "entry_price": 29.774979460716246,
+        "current_price": 29.719999313354492,
+        "cost_basis_usd": 120.0,
+        "current_value_usd": 119.78,
+        "unrealized_pnl_usd": -0.22,
+        "unrealized_pnl_pct": -0.1847,
+        "archetype": "healthcare",
+        "entry_session": "2026-10-21",
+        "decision_locked_at_utc": "2026-10-28T14:13:02.844954+00:00",
+        "yahoo_url": "https://finance.yahoo.com/quote/PFE"
+      }
+    ],
+    "snapshots": [
+      {
+        "date": "2026-10-21",
+        "total_equity_usd": 1000.97,
+        "cash_usd": -0.01,
+        "invested_usd": 1000.98,
+        "daily_change_usd": 0.97,
+        "daily_change_pct": 0.0971,
+        "benchmark_spy_eq_usd": 1000.0,
+        "net_profit_usd": 0.97,
+        "net_profit_pct": 0.0971
+      },
+      {
+        "date": "2026-10-22",
+        "total_equity_usd": 1008.07,
+        "cash_usd": 644.56,
+        "invested_usd": 363.51,
+        "daily_change_usd": 7.1,
+        "daily_change_pct": 0.7096,
+        "benchmark_spy_eq_usd": 1000.0,
+        "net_profit_usd": 8.07,
+        "net_profit_pct": 0.8073
+      },
+      {
+        "date": "2026-10-23",
+        "total_equity_usd": 1007.09,
+        "cash_usd": 766.11,
+        "invested_usd": 240.98,
+        "daily_change_usd": -0.98,
+        "daily_change_pct": -0.0974,
+        "benchmark_spy_eq_usd": 1000.0,
+        "net_profit_usd": 7.09,
+        "net_profit_pct": 0.7088
+      },
+      {
+        "date": "2026-10-26",
+        "total_equity_usd": 1007.76,
+        "cash_usd": 766.11,
+        "invested_usd": 241.65,
+        "daily_change_usd": 0.67,
+        "daily_change_pct": 0.0665,
+        "benchmark_spy_eq_usd": 1000.0,
+        "net_profit_usd": 7.76,
+        "net_profit_pct": 0.776
+      },
+      {
+        "date": "2026-10-27",
+        "total_equity_usd": 1007.76,
+        "cash_usd": 766.11,
+        "invested_usd": 241.65,
+        "daily_change_usd": 0.0,
+        "daily_change_pct": 0.0002,
+        "benchmark_spy_eq_usd": 1000.0,
+        "net_profit_usd": 7.76,
+        "net_profit_pct": 0.7762
+      },
+      {
+        "date": "2026-10-28",
+        "total_equity_usd": 1007.39,
+        "cash_usd": 766.11,
+        "invested_usd": 241.28,
+        "daily_change_usd": -0.37,
+        "daily_change_pct": -0.0367,
+        "benchmark_spy_eq_usd": 1000.0,
+        "net_profit_usd": 7.39,
+        "net_profit_pct": 0.739
+      }
+    ],
+    "trades": []
+  },
+  "report": {
+    "date": "2026-10-28",
+    "day": 6,
+    "is_simulation": true,
+    "headline": "Day 6 \u2014 Oct 28, 2026: Your $1,000.00 budget is now $1,007.39 (+$7.39 / +0.74%).",
+    "bullets": [
+      "Held 0.4239 shares of ABBV \u2014 you paid $283.10 each and they are now $286.65 each, so you are up $1.50.",
+      "Held 4.0302 shares of PFE \u2014 you paid $29.77 each and they are now $29.72 each, so you are down $0.22."
+    ],
+    "summary": {
+      "initial_budget_usd": 1000.0,
+      "cash_usd": 766.11,
+      "invested_usd": 241.28,
+      "total_equity_usd": 1007.39,
+      "net_profit_usd": 7.39,
+      "net_profit_pct": 0.739,
+      "daily_change_usd": -0.37,
+      "daily_change_pct": -0.0367,
+      "total_fees_slippage_usd": 0.88,
+      "days_elapsed": 6
+    },
+    "trades": [],
+    "how_to_check": {
+      "headline": "How to check this is real",
+      "explanation": "Open each link below and compare the price on Yahoo Finance with the price written here. When they match, you are looking at real market prices. The 'locked at' time is the exact moment the paper decision was made.",
+      "positions": [
+        {
+          "ticker": "ABBV",
+          "yahoo_url": "https://finance.yahoo.com/quote/ABBV",
+          "decision_locked_at_utc": "2026-10-28T14:13:02.844954+00:00",
+          "entry_price": 283.1,
+          "current_price": 286.65
+        },
+        {
+          "ticker": "PFE",
+          "yahoo_url": "https://finance.yahoo.com/quote/PFE",
+          "decision_locked_at_utc": "2026-10-28T14:13:02.844954+00:00",
+          "entry_price": 29.77,
+          "current_price": 29.72
+        }
+      ]
+    },
+    "positions": [
+      {
+        "ticker": "ABBV",
+        "shares": 0.4238762850120061,
+        "entry_price": 283.10147145080566,
+        "current_price": 286.6499938964844,
+        "cost_basis_usd": 120.0,
+        "current_value_usd": 121.5,
+        "unrealized_pnl_usd": 1.5,
+        "unrealized_pnl_pct": 1.2534,
+        "archetype": "healthcare",
+        "entry_session": "2026-10-21",
+        "decision_locked_at_utc": "2026-10-28T14:13:02.844954+00:00",
+        "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
+      },
+      {
+        "ticker": "PFE",
+        "shares": 4.03022948037034,
+        "entry_price": 29.774979460716246,
+        "current_price": 29.719999313354492,
+        "cost_basis_usd": 120.0,
+        "current_value_usd": 119.78,
+        "unrealized_pnl_usd": -0.22,
+        "unrealized_pnl_pct": -0.1847,
+        "archetype": "healthcare",
+        "entry_session": "2026-10-21",
+        "decision_locked_at_utc": "2026-10-28T14:13:02.844954+00:00",
+        "yahoo_url": "https://finance.yahoo.com/quote/PFE"
+      }
+    ]
+  },
+  "scan": {
+    "session": "2026-10-28",
+    "data_as_of": "2026-10-28",
+    "stale_days": 0,
+    "source": "live_latest_session",
+    "capital": 1000.0,
+    "notes": [],
+    "candidates": [
+      {
+        "ticker": "ABBV",
+        "archetype": "healthcare",
+        "conviction": 0.5719968884173683,
+        "conviction_p": 0.5719968884173683,
+        "edge_bps": 124.3,
+        "target_usd": 120.0,
+        "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
+      },
+      {
+        "ticker": "PFE",
+        "archetype": "healthcare",
+        "conviction": 0.5630554834148411,
+        "conviction_p": 0.5630554834148411,
+        "edge_bps": 119.2,
+        "target_usd": 120.0,
+        "yahoo_url": "https://finance.yahoo.com/quote/PFE"
+      },
+      {
+        "ticker": "ADBE",
+        "archetype": "technology",
+        "conviction": 0.5368543943919843,
+        "conviction_p": 0.5368543943919843,
+        "edge_bps": 21.6,
+        "target_usd": 0.0,
+        "yahoo_url": "https://finance.yahoo.com/quote/ADBE"
+      },
+      {
+        "ticker": "AAPL",
+        "archetype": "technology",
+        "conviction": 0.5345150115492316,
+        "conviction_p": 0.5345150115492316,
+        "edge_bps": 20.4,
+        "target_usd": 0.0,
+        "yahoo_url": "https://finance.yahoo.com/quote/AAPL"
+      },
+      {
+        "ticker": "ADNT",
+        "archetype": "industrials",
+        "conviction": 0.5344009597153986,
+        "conviction_p": 0.5344009597153986,
+        "edge_bps": 19.7,
+        "target_usd": 0.0,
+        "yahoo_url": "https://finance.yahoo.com/quote/ADNT"
+      },
+      {
+        "ticker": "AEP",
+        "archetype": "utilities",
+        "conviction": 0.5101923777986934,
+        "conviction_p": 0.5101923777986934,
+        "edge_bps": 19.7,
+        "target_usd": 0.0,
+        "yahoo_url": "https://finance.yahoo.com/quote/AEP"
+      },
+      {
+        "ticker": "ALTG",
+        "archetype": "consumer",
+        "conviction": 0.5017212476491337,
+        "conviction_p": 0.5017212476491337,
+        "edge_bps": 9.8,
+        "target_usd": 0.0,
+        "yahoo_url": "https://finance.yahoo.com/quote/ALTG"
+      },
+      {
+        "ticker": "AFGE",
+        "archetype": "financials",
+        "conviction": 0.5175419700465488,
+        "conviction_p": 0.5175419700465488,
+        "edge_bps": 0.0,
+        "target_usd": 0.0,
+        "yahoo_url": "https://finance.yahoo.com/quote/AFGE"
+      },
+      {
+        "ticker": "AGO",
+        "archetype": "financials",
+        "conviction": 0.5262469926151394,
+        "conviction_p": 0.5262469926151394,
+        "edge_bps": 0.0,
+        "target_usd": 0.0,
+        "yahoo_url": "https://finance.yahoo.com/quote/AGO"
+      },
+      {
+        "ticker": "ACMR",
+        "archetype": "industrials",
+        "conviction": 0.49199684836069874,
+        "conviction_p": 0.49199684836069874,
+        "edge_bps": 18.1,
+        "target_usd": 0.0,
+        "yahoo_url": "https://finance.yahoo.com/quote/ACMR"
+      }
+    ]
+  },
+  "metrics": {
+    "mode": "long_only",
+    "active_win_rate_100pct": 0.48856421769096575,
+    "active_win_rate_top_25pct": 0.52,
+    "active_win_rate_top_10pct": 0.5262202866993286,
+    "long_only_win_rate_100pct": 0.48856421769096575,
+    "long_only_win_rate_top_25pct": 0.52,
+    "long_only_win_rate_top_10pct": 0.5262202866993286,
+    "market_neutral_win_rate_100pct": 0.4989597334629794,
+    "market_neutral_win_rate_top_25pct": 0.535181236673774,
+    "market_neutral_win_rate_top_10pct": 0.5479344341619791,
+    "win_rate_horizon_sessions": 5,
+    "win_rates": {
+      "mode": "long_only",
+      "horizon_sessions": 5,
+      "diagnostics": {
+        "raw_positive": {
+          "100pct": 0.48856421769096575,
+          "top_25pct": 0.52,
+          "top_10pct": 0.5262202866993286,
+          "top_15_picks": 0.5391874180865006
+        },
+        "excess_vs_benchmark": {
+          "100pct": 0.4989597334629794,
+          "top_25pct": 0.535181236673774,
+          "top_10pct": 0.5479344341619791,
+          "top_15_picks": 0.5660113586719091
+        }
+      },
+      "realized": {
+        "tranche_trade_win_rate": 0.5589225589225589
+      }
+    },
+    "net_beta": 0.13857204023549163,
+    "net_dollar_exposure": 0.0,
+    "net_yearly_profit_rate_cagr_pct": 15.39130040912482,
+    "monthly_net_return_pct": 1.2001343300865885,
+    "annualized_sharpe": 1.4983915970153208,
+    "max_drawdown_pct": 8.700217012768707,
+    "start_equity_usd": 1000.0,
+    "end_equity_usd": 1564.6391605613333,
+    "sessions": 788,
+    "n_trades": 594,
+    "slippage_bps": 5.0,
+    "equity_curve": [
+      {
+        "session": "2023-08-21",
+        "equity_usd": 1000.0
+      },
+      {
+        "session": "2023-08-22",
+        "equity_usd": 1000.06
+      },
+      {
+        "session": "2023-08-23",
+        "equity_usd": 1003.56
+      },
+      {
+        "session": "2023-08-24",
+        "equity_usd": 992.47
+      },
+      {
+        "session": "2023-08-25",
+        "equity_usd": 1000.48
+      },
+      {
+        "session": "2023-08-28",
+        "equity_usd": 1006.87
+      },
+      {
+        "session": "2023-08-29",
+        "equity_usd": 1019.06
+      },
+      {
+        "session": "2023-08-30",
+        "equity_usd": 1022.48
+      },
+      {
+        "session": "2023-08-31",
+        "equity_usd": 1024.53
+      },
+      {
+        "session": "2023-09-01",
+        "equity_usd": 1027.6
+      },
+      {
+        "session": "2023-09-05",
+        "equity_usd": 1029.53
+      },
+      {
+        "session": "2023-09-06",
+        "equity_usd": 1019.8
+      },
+      {
+        "session": "2023-09-07",
+        "equity_usd": 1024.11
+      },
+      {
+        "session": "2023-09-08",
+        "equity_usd": 1027.21
+      },
+      {
+        "session": "2023-09-11",
+        "equity_usd": 1033.84
+      },
+      {
+        "session": "2023-09-12",
+        "equity_usd": 1027.0
+      },
+      {
+        "session": "2023-09-13",
+        "equity_usd": 1032.83
+      },
+      {
+        "session": "2023-09-14",
+        "equity_usd": 1042.7
+      },
+      {
+        "session": "2023-09-15",
+        "equity_usd": 1027.62
+      },
+      {
+        "session": "2023-09-18",
+        "equity_usd": 1028.03
+      },
+      {
+        "session": "2023-09-19",
+        "equity_usd": 1025.64
+      },
+      {
+        "session": "2023-09-20",
+        "equity_usd": 1014.61
+      },
+      {
+        "session": "2023-09-21",
+        "equity_usd": 995.09
+      },
+      {
+        "session": "2023-09-22",
+        "equity_usd": 990.13
+      },
+      {
+        "session": "2023-09-25",
+        "equity_usd": 996.23
+      },
+      {
+        "session": "2023-09-26",
+        "equity_usd": 986.06
+      },
+      {
+        "session": "2023-09-27",
+        "equity_usd": 988.89
+      },
+      {
+        "session": "2023-09-28",
+        "equity_usd": 993.91
+      },
+      {
+        "session": "2023-09-29",
+        "equity_usd": 989.37
+      },
+      {
+        "session": "2023-10-02",
+        "equity_usd": 989.85
+      },
+      {
+        "session": "2023-10-03",
+        "equity_usd": 975.32
+      },
+      {
+        "session": "2023-10-04",
+        "equity_usd": 979.72
+      },
+      {
+        "session": "2023-10-05",
+        "equity_usd": 980.89
+      },
+      {
+        "session": "2023-10-06",
+        "equity_usd": 994.95
+      },
+      {
+        "session": "2023-10-09",
+        "equity_usd": 1005.11
+      },
+      {
+        "session": "2023-10-10",
+        "equity_usd": 1010.2
+      },
+      {
+        "session": "2023-10-11",
+        "equity_usd": 1022.96
+      },
+      {
+        "session": "2023-10-12",
+        "equity_usd": 1024.25
+      },
+      {
+        "session": "2023-10-13",
+        "equity_usd": 1018.56
+      },
+      {
+        "session": "2023-10-16",
+        "equity_usd": 1026.58
+      },
+      {
+        "session": "2023-10-17",
+        "equity_usd": 1025.46
+      },
+      {
+        "session": "2023-10-18",
+        "equity_usd": 1017.04
+      },
+      {
+        "session": "2023-10-19",
+        "equity_usd": 1004.46
+      },
+      {
+        "session": "2023-10-20",
+        "equity_usd": 992.15
+      },
+      {
+        "session": "2023-10-23",
+        "equity_usd": 984.98
+      },
+      {
+        "session": "2023-10-24",
+        "equity_usd": 994.15
+      },
+      {
+        "session": "2023-10-25",
+        "equity_usd": 980.93
+      },
+      {
+        "session": "2023-10-26",
+        "equity_usd": 963.21
+      },
+      {
+        "session": "2023-10-27",
+        "equity_usd": 951.98
+      },
+      {
+        "session": "2023-10-30",
+        "equity_usd": 962.39
+      },
+      {
+        "session": "2023-10-31",
+        "equity_usd": 959.94
+      },
+      {
+        "session": "2023-11-01",
+        "equity_usd": 969.64
+      },
+      {
+        "session": "2023-11-02",
+        "equity_usd": 985.78
+      },
+      {
+        "session": "2023-11-03",
+        "equity_usd": 987.58
+      },
+      {
+        "session": "2023-11-06",
+        "equity_usd": 994.59
+      },
+      {
+        "session": "2023-11-07",
+        "equity_usd": 997.2
+      },
+      {
+        "session": "2023-11-08",
+        "equity_usd": 1000.78
+      },
+      {
+        "session": "2023-11-09",
+        "equity_usd": 993.52
+      },
+      {
+        "session": "2023-11-10",
+        "equity_usd": 999.59
+      },
+      {
+        "session": "2023-11-13",
+        "equity_usd": 1000.72
+      },
+      {
+        "session": "2023-11-14",
+        "equity_usd": 1008.55
+      },
+      {
+        "session": "2023-11-15",
+        "equity_usd": 1005.0
+      },
+      {
+        "session": "2023-11-16",
+        "equity_usd": 1003.46
+      },
+      {
+        "session": "2023-11-17",
+        "equity_usd": 1001.47
+      },
+      {
+        "session": "2023-11-20",
+        "equity_usd": 1007.45
+      },
+      {
+        "session": "2023-11-21",
+        "equity_usd": 1007.42
+      },
+      {
+        "session": "2023-11-22",
+        "equity_usd": 1014.1
+      },
+      {
+        "session": "2023-11-24",
+        "equity_usd": 1016.54
+      },
+      {
+        "session": "2023-11-27",
+        "equity_usd": 1012.26
+      },
+      {
+        "session": "2023-11-28",
+        "equity_usd": 1012.79
+      },
+      {
+        "session": "2023-11-29",
+        "equity_usd": 1012.97
+      },
+      {
+        "session": "2023-11-30",
+        "equity_usd": 1016.52
+      },
+      {
+        "session": "2023-12-01",
+        "equity_usd": 1018.54
+      },
+      {
+        "session": "2023-12-04",
+        "equity_usd": 1013.37
+      },
+      {
+        "session": "2023-12-05",
+        "equity_usd": 1010.82
+      },
+      {
+        "session": "2023-12-06",
+        "equity_usd": 1008.79
+      },
+      {
+        "session": "2023-12-07",
+        "equity_usd": 1013.72
+      },
+      {
+        "session": "2023-12-08",
+        "equity_usd": 1017.22
+      },
+      {
+        "session": "2023-12-11",
+        "equity_usd": 1019.05
+      },
+      {
+        "session": "2023-12-12",
+        "equity_usd": 1026.65
+      },
+      {
+        "session": "2023-12-13",
+        "equity_usd": 1024.03
+      },
+      {
+        "session": "2023-12-14",
+        "equity_usd": 1017.02
+      },
+      {
+        "session": "2023-12-15",
+        "equity_usd": 1020.81
+      },
+      {
+        "session": "2023-12-18",
+        "equity_usd": 1028.28
+      },
+      {
+        "session": "2023-12-19",
+        "equity_usd": 1037.08
+      },
+      {
+        "session": "2023-12-20",
+        "equity_usd": 1026.42
+      },
+      {
+        "session": "2023-12-21",
+        "equity_usd": 1034.17
+      },
+      {
+        "session": "2023-12-22",
+        "equity_usd": 1037.49
+      },
+      {
+        "session": "2023-12-26",
+        "equity_usd": 1039.72
+      },
+      {
+        "session": "2023-12-27",
+        "equity_usd": 1041.33
+      },
+      {
+        "session": "2023-12-28",
+        "equity_usd": 1039.74
+      },
+      {
+        "session": "2023-12-29",
+        "equity_usd": 1037.93
+      },
+      {
+        "session": "2024-01-02",
+        "equity_usd": 1033.65
+      },
+      {
+        "session": "2024-01-03",
+        "equity_usd": 1030.84
+      },
+      {
+        "session": "2024-01-04",
+        "equity_usd": 1025.98
+      },
+      {
+        "session": "2024-01-05",
+        "equity_usd": 1027.39
+      },
+      {
+        "session": "2024-01-08",
+        "equity_usd": 1027.67
+      },
+      {
+        "session": "2024-01-09",
+        "equity_usd": 1025.2
+      },
+      {
+        "session": "2024-01-10",
+        "equity_usd": 1028.53
+      },
+      {
+        "session": "2024-01-11",
+        "equity_usd": 1027.74
+      },
+      {
+        "session": "2024-01-12",
+        "equity_usd": 1030.65
+      },
+      {
+        "session": "2024-01-16",
+        "equity_usd": 1017.95
+      },
+      {
+        "session": "2024-01-17",
+        "equity_usd": 1015.9
+      },
+      {
+        "session": "2024-01-18",
+        "equity_usd": 1023.77
+      },
+      {
+        "session": "2024-01-19",
+        "equity_usd": 1035.83
+      },
+      {
+        "session": "2024-01-22",
+        "equity_usd": 1035.63
+      },
+      {
+        "session": "2024-01-23",
+        "equity_usd": 1041.38
+      },
+      {
+        "session": "2024-01-24",
+        "equity_usd": 1042.44
+      },
+      {
+        "session": "2024-01-25",
+        "equity_usd": 1040.78
+      },
+      {
+        "session": "2024-01-26",
+        "equity_usd": 1042.33
+      },
+      {
+        "session": "2024-01-29",
+        "equity_usd": 1050.45
+      },
+      {
+        "session": "2024-01-30",
+        "equity_usd": 1052.77
+      },
+      {
+        "session": "2024-01-31",
+        "equity_usd": 1040.6
+      },
+      {
+        "session": "2024-02-01",
+        "equity_usd": 1054.83
+      },
+      {
+        "session": "2024-02-02",
+        "equity_usd": 1073.5
+      },
+      {
+        "session": "2024-02-05",
+        "equity_usd": 1067.15
+      },
+      {
+        "session": "2024-02-06",
+        "equity_usd": 1077.4
+      },
+      {
+        "session": "2024-02-07",
+        "equity_usd": 1081.31
+      },
+      {
+        "session": "2024-02-08",
+        "equity_usd": 1074.37
+      },
+      {
+        "session": "2024-02-09",
+        "equity_usd": 1085.63
+      },
+      {
+        "session": "2024-02-12",
+        "equity_usd": 1091.44
+      },
+      {
+        "session": "2024-02-13",
+        "equity_usd": 1073.49
+      },
+      {
+        "session": "2024-02-14",
+        "equity_usd": 1082.83
+      },
+      {
+        "session": "2024-02-15",
+        "equity_usd": 1090.95
+      },
+      {
+        "session": "2024-02-16",
+        "equity_usd": 1084.35
+      },
+      {
+        "session": "2024-02-20",
+        "equity_usd": 1079.12
+      },
+      {
+        "session": "2024-02-21",
+        "equity_usd": 1078.07
+      },
+      {
+        "session": "2024-02-22",
+        "equity_usd": 1095.76
+      },
+      {
+        "session": "2024-02-23",
+        "equity_usd": 1094.97
+      },
+      {
+        "session": "2024-02-26",
+        "equity_usd": 1093.88
+      },
+      {
+        "session": "2024-02-27",
+        "equity_usd": 1091.58
+      },
+      {
+        "session": "2024-02-28",
+        "equity_usd": 1090.78
+      },
+      {
+        "session": "2024-02-29",
+        "equity_usd": 1094.36
+      },
+      {
+        "session": "2024-03-01",
+        "equity_usd": 1106.6
+      },
+      {
+        "session": "2024-03-04",
+        "equity_usd": 1104.8
+      },
+      {
+        "session": "2024-03-05",
+        "equity_usd": 1087.95
+      },
+      {
+        "session": "2024-03-06",
+        "equity_usd": 1093.36
+      },
+      {
+        "session": "2024-03-07",
+        "equity_usd": 1104.37
+      },
+      {
+        "session": "2024-03-08",
+        "equity_usd": 1102.1
+      },
+      {
+        "session": "2024-03-11",
+        "equity_usd": 1100.91
+      },
+      {
+        "session": "2024-03-12",
+        "equity_usd": 1111.88
+      },
+      {
+        "session": "2024-03-13",
+        "equity_usd": 1110.16
+      },
+      {
+        "session": "2024-03-14",
+        "equity_usd": 1110.2
+      },
+      {
+        "session": "2024-03-15",
+        "equity_usd": 1100.53
+      },
+      {
+        "session": "2024-03-18",
+        "equity_usd": 1107.3
+      },
+      {
+        "session": "2024-03-19",
+        "equity_usd": 1113.81
+      },
+      {
+        "session": "2024-03-20",
+        "equity_usd": 1124.55
+      },
+      {
+        "session": "2024-03-21",
+        "equity_usd": 1123.7
+      },
+      {
+        "session": "2024-03-22",
+        "equity_usd": 1117.6
+      },
+      {
+        "session": "2024-03-25",
+        "equity_usd": 1118.86
+      },
+      {
+        "session": "2024-03-26",
+        "equity_usd": 1117.8
+      },
+      {
+        "session": "2024-03-27",
+        "equity_usd": 1130.24
+      },
+      {
+        "session": "2024-03-28",
+        "equity_usd": 1131.52
+      },
+      {
+        "session": "2024-04-01",
+        "equity_usd": 1129.62
+      },
+      {
+        "session": "2024-04-02",
+        "equity_usd": 1122.82
+      },
+      {
+        "session": "2024-04-03",
+        "equity_usd": 1124.27
+      },
+      {
+        "session": "2024-04-04",
+        "equity_usd": 1109.12
+      },
+      {
+        "session": "2024-04-05",
+        "equity_usd": 1119.79
+      },
+      {
+        "session": "2024-04-08",
+        "equity_usd": 1119.44
+      },
+      {
+        "session": "2024-04-09",
+        "equity_usd": 1117.1
+      },
+      {
+        "session": "2024-04-10",
+        "equity_usd": 1107.29
+      },
+      {
+        "session": "2024-04-11",
+        "equity_usd": 1109.17
+      },
+      {
+        "session": "2024-04-12",
+        "equity_usd": 1095.98
+      },
+      {
+        "session": "2024-04-15",
+        "equity_usd": 1086.28
+      },
+      {
+        "session": "2024-04-16",
+        "equity_usd": 1084.47
+      },
+      {
+        "session": "2024-04-17",
+        "equity_usd": 1074.07
+      },
+      {
+        "session": "2024-04-18",
+        "equity_usd": 1069.62
+      },
+      {
+        "session": "2024-04-19",
+        "equity_usd": 1072.18
+      },
+      {
+        "session": "2024-04-22",
+        "equity_usd": 1076.57
+      },
+      {
+        "session": "2024-04-23",
+        "equity_usd": 1085.31
+      },
+      {
+        "session": "2024-04-24",
+        "equity_usd": 1080.53
+      },
+      {
+        "session": "2024-04-25",
+        "equity_usd": 1075.83
+      },
+      {
+        "session": "2024-04-26",
+        "equity_usd": 1076.25
+      },
+      {
+        "session": "2024-04-29",
+        "equity_usd": 1080.48
+      },
+      {
+        "session": "2024-04-30",
+        "equity_usd": 1066.23
+      },
+      {
+        "session": "2024-05-01",
+        "equity_usd": 1070.67
+      },
+      {
+        "session": "2024-05-02",
+        "equity_usd": 1082.61
+      },
+      {
+        "session": "2024-05-03",
+        "equity_usd": 1099.28
+      },
+      {
+        "session": "2024-05-06",
+        "equity_usd": 1100.8
+      },
+      {
+        "session": "2024-05-07",
+        "equity_usd": 1104.97
+      },
+      {
+        "session": "2024-05-08",
+        "equity_usd": 1102.7
+      },
+      {
+        "session": "2024-05-09",
+        "equity_usd": 1106.85
+      },
+      {
+        "session": "2024-05-10",
+        "equity_usd": 1109.15
+      },
+      {
+        "session": "2024-05-13",
+        "equity_usd": 1109.64
+      },
+      {
+        "session": "2024-05-14",
+        "equity_usd": 1112.67
+      },
+      {
+        "session": "2024-05-15",
+        "equity_usd": 1131.59
+      },
+      {
+        "session": "2024-05-16",
+        "equity_usd": 1137.57
+      },
+      {
+        "session": "2024-05-17",
+        "equity_usd": 1138.54
+      },
+      {
+        "session": "2024-05-20",
+        "equity_usd": 1140.13
+      },
+      {
+        "session": "2024-05-21",
+        "equity_usd": 1138.22
+      },
+      {
+        "session": "2024-05-22",
+        "equity_usd": 1131.46
+      },
+      {
+        "session": "2024-05-23",
+        "equity_usd": 1118.53
+      },
+      {
+        "session": "2024-05-24",
+        "equity_usd": 1106.81
+      },
+      {
+        "session": "2024-05-28",
+        "equity_usd": 1098.76
+      },
+      {
+        "session": "2024-05-29",
+        "equity_usd": 1094.48
+      },
+      {
+        "session": "2024-05-30",
+        "equity_usd": 1081.5
+      },
+      {
+        "session": "2024-05-31",
+        "equity_usd": 1092.13
+      },
+      {
+        "session": "2024-06-03",
+        "equity_usd": 1098.87
+      },
+      {
+        "session": "2024-06-04",
+        "equity_usd": 1104.08
+      },
+      {
+        "session": "2024-06-05",
+        "equity_usd": 1115.65
+      },
+      {
+        "session": "2024-06-06",
+        "equity_usd": 1116.66
+      },
+      {
+        "session": "2024-06-07",
+        "equity_usd": 1117.03
+      },
+      {
+        "session": "2024-06-10",
+        "equity_usd": 1126.34
+      },
+      {
+        "session": "2024-06-11",
+        "equity_usd": 1114.82
+      },
+      {
+        "session": "2024-06-12",
+        "equity_usd": 1120.61
+      },
+      {
+        "session": "2024-06-13",
+        "equity_usd": 1117.07
+      },
+      {
+        "session": "2024-06-14",
+        "equity_usd": 1118.87
+      },
+      {
+        "session": "2024-06-17",
+        "equity_usd": 1118.62
+      },
+      {
+        "session": "2024-06-18",
+        "equity_usd": 1119.54
+      },
+      {
+        "session": "2024-06-20",
+        "equity_usd": 1133.79
+      },
+      {
+        "session": "2024-06-21",
+        "equity_usd": 1138.6
+      },
+      {
+        "session": "2024-06-24",
+        "equity_usd": 1148.4
+      },
+      {
+        "session": "2024-06-25",
+        "equity_usd": 1144.91
+      },
+      {
+        "session": "2024-06-26",
+        "equity_usd": 1142.99
+      },
+      {
+        "session": "2024-06-27",
+        "equity_usd": 1144.12
+      },
+      {
+        "session": "2024-06-28",
+        "equity_usd": 1140.45
+      },
+      {
+        "session": "2024-07-01",
+        "equity_usd": 1147.15
+      },
+      {
+        "session": "2024-07-02",
+        "equity_usd": 1143.65
+      },
+      {
+        "session": "2024-07-03",
+        "equity_usd": 1139.64
+      },
+      {
+        "session": "2024-07-05",
+        "equity_usd": 1149.43
+      },
+      {
+        "session": "2024-07-08",
+        "equity_usd": 1142.47
+      },
+      {
+        "session": "2024-07-09",
+        "equity_usd": 1139.2
+      },
+      {
+        "session": "2024-07-10",
+        "equity_usd": 1147.2
+      },
+      {
+        "session": "2024-07-11",
+        "equity_usd": 1156.76
+      },
+      {
+        "session": "2024-07-12",
+        "equity_usd": 1164.04
+      },
+      {
+        "session": "2024-07-15",
+        "equity_usd": 1161.99
+      },
+      {
+        "session": "2024-07-16",
+        "equity_usd": 1169.56
+      },
+      {
+        "session": "2024-07-17",
+        "equity_usd": 1169.52
+      },
+      {
+        "session": "2024-07-18",
+        "equity_usd": 1155.83
+      },
+      {
+        "session": "2024-07-19",
+        "equity_usd": 1154.86
+      },
+      {
+        "session": "2024-07-22",
+        "equity_usd": 1159.4
+      },
+      {
+        "session": "2024-07-23",
+        "equity_usd": 1156.5
+      },
+      {
+        "session": "2024-07-24",
+        "equity_usd": 1149.81
+      },
+      {
+        "session": "2024-07-25",
+        "equity_usd": 1159.49
+      },
+      {
+        "session": "2024-07-26",
+        "equity_usd": 1172.73
+      },
+      {
+        "session": "2024-07-29",
+        "equity_usd": 1170.81
+      },
+      {
+        "session": "2024-07-30",
+        "equity_usd": 1176.24
+      },
+      {
+        "session": "2024-07-31",
+        "equity_usd": 1186.9
+      },
+      {
+        "session": "2024-08-01",
+        "equity_usd": 1188.91
+      },
+      {
+        "session": "2024-08-02",
+        "equity_usd": 1182.19
+      },
+      {
+        "session": "2024-08-05",
+        "equity_usd": 1168.73
+      },
+      {
+        "session": "2024-08-06",
+        "equity_usd": 1171.27
+      },
+      {
+        "session": "2024-08-07",
+        "equity_usd": 1169.62
+      },
+      {
+        "session": "2024-08-08",
+        "equity_usd": 1178.91
+      },
+      {
+        "session": "2024-08-09",
+        "equity_usd": 1181.72
+      },
+      {
+        "session": "2024-08-12",
+        "equity_usd": 1180.27
+      },
+      {
+        "session": "2024-08-13",
+        "equity_usd": 1189.15
+      },
+      {
+        "session": "2024-08-14",
+        "equity_usd": 1186.09
+      },
+      {
+        "session": "2024-08-15",
+        "equity_usd": 1193.89
+      },
+      {
+        "session": "2024-08-16",
+        "equity_usd": 1195.01
+      },
+      {
+        "session": "2024-08-19",
+        "equity_usd": 1198.96
+      },
+      {
+        "session": "2024-08-20",
+        "equity_usd": 1198.18
+      },
+      {
+        "session": "2024-08-21",
+        "equity_usd": 1214.58
+      },
+      {
+        "session": "2024-08-22",
+        "equity_usd": 1206.12
+      },
+      {
+        "session": "2024-08-23",
+        "equity_usd": 1209.58
+      },
+      {
+        "session": "2024-08-26",
+        "equity_usd": 1205.58
+      },
+      {
+        "session": "2024-08-27",
+        "equity_usd": 1207.47
+      },
+      {
+        "session": "2024-08-28",
+        "equity_usd": 1201.1
+      },
+      {
+        "session": "2024-08-29",
+        "equity_usd": 1203.03
+      },
+      {
+        "session": "2024-08-30",
+        "equity_usd": 1213.95
+      },
+      {
+        "session": "2024-09-03",
+        "equity_usd": 1201.37
+      },
+      {
+        "session": "2024-09-04",
+        "equity_usd": 1201.25
+      },
+      {
+        "session": "2024-09-05",
+        "equity_usd": 1198.57
+      },
+      {
+        "session": "2024-09-06",
+        "equity_usd": 1185.94
+      },
+      {
+        "session": "2024-09-09",
+        "equity_usd": 1199.06
+      },
+      {
+        "session": "2024-09-10",
+        "equity_usd": 1202.07
+      },
+      {
+        "session": "2024-09-11",
+        "equity_usd": 1204.16
+      },
+      {
+        "session": "2024-09-12",
+        "equity_usd": 1216.26
+      },
+      {
+        "session": "2024-09-13",
+        "equity_usd": 1222.44
+      },
+      {
+        "session": "2024-09-16",
+        "equity_usd": 1224.55
+      },
+      {
+        "session": "2024-09-17",
+        "equity_usd": 1221.72
+      },
+      {
+        "session": "2024-09-18",
+        "equity_usd": 1221.93
+      },
+      {
+        "session": "2024-09-19",
+        "equity_usd": 1232.37
+      },
+      {
+        "session": "2024-09-20",
+        "equity_usd": 1238.3
+      },
+      {
+        "session": "2024-09-23",
+        "equity_usd": 1240.63
+      },
+      {
+        "session": "2024-09-24",
+        "equity_usd": 1241.26
+      },
+      {
+        "session": "2024-09-25",
+        "equity_usd": 1226.44
+      },
+      {
+        "session": "2024-09-26",
+        "equity_usd": 1230.57
+      },
+      {
+        "session": "2024-09-27",
+        "equity_usd": 1233.89
+      },
+      {
+        "session": "2024-09-30",
+        "equity_usd": 1237.48
+      },
+      {
+        "session": "2024-10-01",
+        "equity_usd": 1236.37
+      },
+      {
+        "session": "2024-10-02",
+        "equity_usd": 1232.14
+      },
+      {
+        "session": "2024-10-03",
+        "equity_usd": 1226.75
+      },
+      {
+        "session": "2024-10-04",
+        "equity_usd": 1231.06
+      },
+      {
+        "session": "2024-10-07",
+        "equity_usd": 1215.06
+      },
+      {
+        "session": "2024-10-08",
+        "equity_usd": 1221.26
+      },
+      {
+        "session": "2024-10-09",
+        "equity_usd": 1224.95
+      },
+      {
+        "session": "2024-10-10",
+        "equity_usd": 1217.9
+      },
+      {
+        "session": "2024-10-11",
+        "equity_usd": 1226.85
+      },
+      {
+        "session": "2024-10-14",
+        "equity_usd": 1233.39
+      },
+      {
+        "session": "2024-10-15",
+        "equity_usd": 1236.76
+      },
+      {
+        "session": "2024-10-16",
+        "equity_usd": 1241.16
+      },
+      {
+        "session": "2024-10-17",
+        "equity_usd": 1235.36
+      },
+      {
+        "session": "2024-10-18",
+        "equity_usd": 1236.38
+      },
+      {
+        "session": "2024-10-21",
+        "equity_usd": 1228.33
+      },
+      {
+        "session": "2024-10-22",
+        "equity_usd": 1233.88
+      },
+      {
+        "session": "2024-10-23",
+        "equity_usd": 1226.19
+      },
+      {
+        "session": "2024-10-24",
+        "equity_usd": 1225.14
+      },
+      {
+        "session": "2024-10-25",
+        "equity_usd": 1224.59
+      },
+      {
+        "session": "2024-10-28",
+        "equity_usd": 1230.84
+      },
+      {
+        "session": "2024-10-29",
+        "equity_usd": 1234.95
+      },
+      {
+        "session": "2024-10-30",
+        "equity_usd": 1235.25
+      },
+      {
+        "session": "2024-10-31",
+        "equity_usd": 1223.03
+      },
+      {
+        "session": "2024-11-01",
+        "equity_usd": 1233.94
+      },
+      {
+        "session": "2024-11-04",
+        "equity_usd": 1231.94
+      },
+      {
+        "session": "2024-11-05",
+        "equity_usd": 1240.57
+      },
+      {
+        "session": "2024-11-06",
+        "equity_usd": 1245.51
+      },
+      {
+        "session": "2024-11-07",
+        "equity_usd": 1254.38
+      },
+      {
+        "session": "2024-11-08",
+        "equity_usd": 1260.66
+      },
+      {
+        "session": "2024-11-11",
+        "equity_usd": 1249.19
+      },
+      {
+        "session": "2024-11-12",
+        "equity_usd": 1235.87
+      },
+      {
+        "session": "2024-11-13",
+        "equity_usd": 1233.74
+      },
+      {
+        "session": "2024-11-14",
+        "equity_usd": 1227.56
+      },
+      {
+        "session": "2024-11-15",
+        "equity_usd": 1210.47
+      },
+      {
+        "session": "2024-11-18",
+        "equity_usd": 1219.14
+      },
+      {
+        "session": "2024-11-19",
+        "equity_usd": 1224.39
+      },
+      {
+        "session": "2024-11-20",
+        "equity_usd": 1226.57
+      },
+      {
+        "session": "2024-11-21",
+        "equity_usd": 1229.66
+      },
+      {
+        "session": "2024-11-22",
+        "equity_usd": 1234.47
+      },
+      {
+        "session": "2024-11-25",
+        "equity_usd": 1235.3
+      },
+      {
+        "session": "2024-11-26",
+        "equity_usd": 1240.84
+      },
+      {
+        "session": "2024-11-27",
+        "equity_usd": 1243.07
+      },
+      {
+        "session": "2024-11-29",
+        "equity_usd": 1246.29
+      },
+      {
+        "session": "2024-12-02",
+        "equity_usd": 1246.47
+      },
+      {
+        "session": "2024-12-03",
+        "equity_usd": 1250.96
+      },
+      {
+        "session": "2024-12-04",
+        "equity_usd": 1254.45
+      },
+      {
+        "session": "2024-12-05",
+        "equity_usd": 1257.6
+      },
+      {
+        "session": "2024-12-06",
+        "equity_usd": 1256.47
+      },
+      {
+        "session": "2024-12-09",
+        "equity_usd": 1254.59
+      },
+      {
+        "session": "2024-12-10",
+        "equity_usd": 1256.3
+      },
+      {
+        "session": "2024-12-11",
+        "equity_usd": 1261.79
+      },
+      {
+        "session": "2024-12-12",
+        "equity_usd": 1259.91
+      },
+      {
+        "session": "2024-12-13",
+        "equity_usd": 1255.64
+      },
+      {
+        "session": "2024-12-16",
+        "equity_usd": 1255.38
+      },
+      {
+        "session": "2024-12-17",
+        "equity_usd": 1254.34
+      },
+      {
+        "session": "2024-12-18",
+        "equity_usd": 1226.79
+      },
+      {
+        "session": "2024-12-19",
+        "equity_usd": 1230.22
+      },
+      {
+        "session": "2024-12-20",
+        "equity_usd": 1237.41
+      },
+      {
+        "session": "2024-12-23",
+        "equity_usd": 1246.0
+      },
+      {
+        "session": "2024-12-24",
+        "equity_usd": 1254.01
+      },
+      {
+        "session": "2024-12-26",
+        "equity_usd": 1253.87
+      },
+      {
+        "session": "2024-12-27",
+        "equity_usd": 1246.24
+      },
+      {
+        "session": "2024-12-30",
+        "equity_usd": 1240.07
+      },
+      {
+        "session": "2024-12-31",
+        "equity_usd": 1244.18
+      },
+      {
+        "session": "2025-01-02",
+        "equity_usd": 1241.68
+      },
+      {
+        "session": "2025-01-03",
+        "equity_usd": 1248.73
+      },
+      {
+        "session": "2025-01-06",
+        "equity_usd": 1248.55
+      },
+      {
+        "session": "2025-01-07",
+        "equity_usd": 1245.12
+      },
+      {
+        "session": "2025-01-08",
+        "equity_usd": 1244.94
+      },
+      {
+        "session": "2025-01-10",
+        "equity_usd": 1231.42
+      },
+      {
+        "session": "2025-01-13",
+        "equity_usd": 1239.61
+      },
+      {
+        "session": "2025-01-14",
+        "equity_usd": 1239.42
+      },
+      {
+        "session": "2025-01-15",
+        "equity_usd": 1250.89
+      },
+      {
+        "session": "2025-01-16",
+        "equity_usd": 1257.1
+      },
+      {
+        "session": "2025-01-17",
+        "equity_usd": 1258.24
+      },
+      {
+        "session": "2025-01-21",
+        "equity_usd": 1261.15
+      },
+      {
+        "session": "2025-01-22",
+        "equity_usd": 1256.64
+      },
+      {
+        "session": "2025-01-23",
+        "equity_usd": 1264.57
+      },
+      {
+        "session": "2025-01-24",
+        "equity_usd": 1260.14
+      },
+      {
+        "session": "2025-01-27",
+        "equity_usd": 1277.39
+      },
+      {
+        "session": "2025-01-28",
+        "equity_usd": 1269.68
+      },
+      {
+        "session": "2025-01-29",
+        "equity_usd": 1271.41
+      },
+      {
+        "session": "2025-01-30",
+        "equity_usd": 1283.54
+      },
+      {
+        "session": "2025-01-31",
+        "equity_usd": 1277.72
+      },
+      {
+        "session": "2025-02-03",
+        "equity_usd": 1283.68
+      },
+      {
+        "session": "2025-02-04",
+        "equity_usd": 1270.28
+      },
+      {
+        "session": "2025-02-05",
+        "equity_usd": 1278.36
+      },
+      {
+        "session": "2025-02-06",
+        "equity_usd": 1277.8
+      },
+      {
+        "session": "2025-02-07",
+        "equity_usd": 1269.65
+      },
+      {
+        "session": "2025-02-10",
+        "equity_usd": 1271.2
+      },
+      {
+        "session": "2025-02-11",
+        "equity_usd": 1277.17
+      },
+      {
+        "session": "2025-02-12",
+        "equity_usd": 1276.02
+      },
+      {
+        "session": "2025-02-13",
+        "equity_usd": 1288.34
+      },
+      {
+        "session": "2025-02-14",
+        "equity_usd": 1285.91
+      },
+      {
+        "session": "2025-02-18",
+        "equity_usd": 1296.28
+      },
+      {
+        "session": "2025-02-19",
+        "equity_usd": 1303.99
+      },
+      {
+        "session": "2025-02-20",
+        "equity_usd": 1302.16
+      },
+      {
+        "session": "2025-02-21",
+        "equity_usd": 1298.93
+      },
+      {
+        "session": "2025-02-24",
+        "equity_usd": 1302.61
+      },
+      {
+        "session": "2025-02-25",
+        "equity_usd": 1308.55
+      },
+      {
+        "session": "2025-02-26",
+        "equity_usd": 1303.38
+      },
+      {
+        "session": "2025-02-27",
+        "equity_usd": 1296.76
+      },
+      {
+        "session": "2025-02-28",
+        "equity_usd": 1300.36
+      },
+      {
+        "session": "2025-03-03",
+        "equity_usd": 1299.19
+      },
+      {
+        "session": "2025-03-04",
+        "equity_usd": 1289.51
+      },
+      {
+        "session": "2025-03-05",
+        "equity_usd": 1295.66
+      },
+      {
+        "session": "2025-03-06",
+        "equity_usd": 1280.15
+      },
+      {
+        "session": "2025-03-07",
+        "equity_usd": 1275.82
+      },
+      {
+        "session": "2025-03-10",
+        "equity_usd": 1269.27
+      },
+      {
+        "session": "2025-03-11",
+        "equity_usd": 1267.26
+      },
+      {
+        "session": "2025-03-12",
+        "equity_usd": 1267.19
+      },
+      {
+        "session": "2025-03-13",
+        "equity_usd": 1259.77
+      },
+      {
+        "session": "2025-03-14",
+        "equity_usd": 1268.74
+      },
+      {
+        "session": "2025-03-17",
+        "equity_usd": 1275.34
+      },
+      {
+        "session": "2025-03-18",
+        "equity_usd": 1271.93
+      },
+      {
+        "session": "2025-03-19",
+        "equity_usd": 1274.09
+      },
+      {
+        "session": "2025-03-20",
+        "equity_usd": 1274.25
+      },
+      {
+        "session": "2025-03-21",
+        "equity_usd": 1271.77
+      },
+      {
+        "session": "2025-03-24",
+        "equity_usd": 1277.57
+      },
+      {
+        "session": "2025-03-25",
+        "equity_usd": 1273.2
+      },
+      {
+        "session": "2025-03-26",
+        "equity_usd": 1269.38
+      },
+      {
+        "session": "2025-03-27",
+        "equity_usd": 1270.29
+      },
+      {
+        "session": "2025-03-28",
+        "equity_usd": 1263.78
+      },
+      {
+        "session": "2025-03-31",
+        "equity_usd": 1266.56
+      },
+      {
+        "session": "2025-04-01",
+        "equity_usd": 1265.93
+      },
+      {
+        "session": "2025-04-02",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-03",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-04",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-07",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-08",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-09",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-10",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-11",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-14",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-15",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-16",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-17",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-21",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-22",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-23",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-24",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-25",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-28",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-29",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-04-30",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-05-01",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-05-02",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-05-05",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-05-06",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-05-07",
+        "equity_usd": 1269.6
+      },
+      {
+        "session": "2025-05-08",
+        "equity_usd": 1268.22
+      },
+      {
+        "session": "2025-05-09",
+        "equity_usd": 1265.05
+      },
+      {
+        "session": "2025-05-12",
+        "equity_usd": 1282.36
+      },
+      {
+        "session": "2025-05-13",
+        "equity_usd": 1278.54
+      },
+      {
+        "session": "2025-05-14",
+        "equity_usd": 1261.55
+      },
+      {
+        "session": "2025-05-15",
+        "equity_usd": 1275.27
+      },
+      {
+        "session": "2025-05-16",
+        "equity_usd": 1281.3
+      },
+      {
+        "session": "2025-05-19",
+        "equity_usd": 1289.01
+      },
+      {
+        "session": "2025-05-20",
+        "equity_usd": 1287.29
+      },
+      {
+        "session": "2025-05-21",
+        "equity_usd": 1270.27
+      },
+      {
+        "session": "2025-05-22",
+        "equity_usd": 1269.37
+      },
+      {
+        "session": "2025-05-23",
+        "equity_usd": 1263.8
+      },
+      {
+        "session": "2025-05-27",
+        "equity_usd": 1281.15
+      },
+      {
+        "session": "2025-05-28",
+        "equity_usd": 1274.77
+      },
+      {
+        "session": "2025-05-29",
+        "equity_usd": 1283.75
+      },
+      {
+        "session": "2025-05-30",
+        "equity_usd": 1281.8
+      },
+      {
+        "session": "2025-06-02",
+        "equity_usd": 1289.48
+      },
+      {
+        "session": "2025-06-03",
+        "equity_usd": 1297.4
+      },
+      {
+        "session": "2025-06-04",
+        "equity_usd": 1296.9
+      },
+      {
+        "session": "2025-06-05",
+        "equity_usd": 1294.98
+      },
+      {
+        "session": "2025-06-06",
+        "equity_usd": 1300.88
+      },
+      {
+        "session": "2025-06-09",
+        "equity_usd": 1306.99
+      },
+      {
+        "session": "2025-06-10",
+        "equity_usd": 1314.18
+      },
+      {
+        "session": "2025-06-11",
+        "equity_usd": 1313.6
+      },
+      {
+        "session": "2025-06-12",
+        "equity_usd": 1325.89
+      },
+      {
+        "session": "2025-06-13",
+        "equity_usd": 1318.18
+      },
+      {
+        "session": "2025-06-16",
+        "equity_usd": 1323.31
+      },
+      {
+        "session": "2025-06-17",
+        "equity_usd": 1312.35
+      },
+      {
+        "session": "2025-06-18",
+        "equity_usd": 1312.7
+      },
+      {
+        "session": "2025-06-20",
+        "equity_usd": 1308.32
+      },
+      {
+        "session": "2025-06-23",
+        "equity_usd": 1308.84
+      },
+      {
+        "session": "2025-06-24",
+        "equity_usd": 1316.27
+      },
+      {
+        "session": "2025-06-25",
+        "equity_usd": 1314.21
+      },
+      {
+        "session": "2025-06-26",
+        "equity_usd": 1318.18
+      },
+      {
+        "session": "2025-06-27",
+        "equity_usd": 1312.47
+      },
+      {
+        "session": "2025-06-30",
+        "equity_usd": 1322.45
+      },
+      {
+        "session": "2025-07-01",
+        "equity_usd": 1329.13
+      },
+      {
+        "session": "2025-07-02",
+        "equity_usd": 1340.89
+      },
+      {
+        "session": "2025-07-03",
+        "equity_usd": 1345.44
+      },
+      {
+        "session": "2025-07-07",
+        "equity_usd": 1336.64
+      },
+      {
+        "session": "2025-07-08",
+        "equity_usd": 1343.32
+      },
+      {
+        "session": "2025-07-09",
+        "equity_usd": 1346.62
+      },
+      {
+        "session": "2025-07-10",
+        "equity_usd": 1351.08
+      },
+      {
+        "session": "2025-07-11",
+        "equity_usd": 1340.88
+      },
+      {
+        "session": "2025-07-14",
+        "equity_usd": 1346.61
+      },
+      {
+        "session": "2025-07-15",
+        "equity_usd": 1331.14
+      },
+      {
+        "session": "2025-07-16",
+        "equity_usd": 1336.51
+      },
+      {
+        "session": "2025-07-17",
+        "equity_usd": 1321.35
+      },
+      {
+        "session": "2025-07-18",
+        "equity_usd": 1326.77
+      },
+      {
+        "session": "2025-07-21",
+        "equity_usd": 1321.25
+      },
+      {
+        "session": "2025-07-22",
+        "equity_usd": 1329.23
+      },
+      {
+        "session": "2025-07-23",
+        "equity_usd": 1341.98
+      },
+      {
+        "session": "2025-07-24",
+        "equity_usd": 1344.08
+      },
+      {
+        "session": "2025-07-25",
+        "equity_usd": 1350.71
+      },
+      {
+        "session": "2025-07-28",
+        "equity_usd": 1344.94
+      },
+      {
+        "session": "2025-07-29",
+        "equity_usd": 1349.37
+      },
+      {
+        "session": "2025-07-30",
+        "equity_usd": 1344.9
+      },
+      {
+        "session": "2025-07-31",
+        "equity_usd": 1335.79
+      },
+      {
+        "session": "2025-08-01",
+        "equity_usd": 1334.72
+      },
+      {
+        "session": "2025-08-04",
+        "equity_usd": 1352.58
+      },
+      {
+        "session": "2025-08-05",
+        "equity_usd": 1342.71
+      },
+      {
+        "session": "2025-08-06",
+        "equity_usd": 1339.69
+      },
+      {
+        "session": "2025-08-07",
+        "equity_usd": 1339.97
+      },
+      {
+        "session": "2025-08-08",
+        "equity_usd": 1352.35
+      },
+      {
+        "session": "2025-08-11",
+        "equity_usd": 1343.72
+      },
+      {
+        "session": "2025-08-12",
+        "equity_usd": 1343.98
+      },
+      {
+        "session": "2025-08-13",
+        "equity_usd": 1352.03
+      },
+      {
+        "session": "2025-08-14",
+        "equity_usd": 1350.5
+      },
+      {
+        "session": "2025-08-15",
+        "equity_usd": 1356.95
+      },
+      {
+        "session": "2025-08-18",
+        "equity_usd": 1353.95
+      },
+      {
+        "session": "2025-08-19",
+        "equity_usd": 1353.49
+      },
+      {
+        "session": "2025-08-20",
+        "equity_usd": 1361.17
+      },
+      {
+        "session": "2025-08-21",
+        "equity_usd": 1359.0
+      },
+      {
+        "session": "2025-08-22",
+        "equity_usd": 1366.27
+      },
+      {
+        "session": "2025-08-25",
+        "equity_usd": 1363.36
+      },
+      {
+        "session": "2025-08-26",
+        "equity_usd": 1360.7
+      },
+      {
+        "session": "2025-08-27",
+        "equity_usd": 1362.62
+      },
+      {
+        "session": "2025-08-28",
+        "equity_usd": 1362.39
+      },
+      {
+        "session": "2025-08-29",
+        "equity_usd": 1365.11
+      },
+      {
+        "session": "2025-09-02",
+        "equity_usd": 1362.68
+      },
+      {
+        "session": "2025-09-03",
+        "equity_usd": 1359.28
+      },
+      {
+        "session": "2025-09-04",
+        "equity_usd": 1363.39
+      },
+      {
+        "session": "2025-09-05",
+        "equity_usd": 1366.9
+      },
+      {
+        "session": "2025-09-08",
+        "equity_usd": 1364.31
+      },
+      {
+        "session": "2025-09-09",
+        "equity_usd": 1362.21
+      },
+      {
+        "session": "2025-09-10",
+        "equity_usd": 1363.16
+      },
+      {
+        "session": "2025-09-11",
+        "equity_usd": 1376.49
+      },
+      {
+        "session": "2025-09-12",
+        "equity_usd": 1375.45
+      },
+      {
+        "session": "2025-09-15",
+        "equity_usd": 1399.06
+      },
+      {
+        "session": "2025-09-16",
+        "equity_usd": 1397.16
+      },
+      {
+        "session": "2025-09-17",
+        "equity_usd": 1399.81
+      },
+      {
+        "session": "2025-09-18",
+        "equity_usd": 1406.27
+      },
+      {
+        "session": "2025-09-19",
+        "equity_usd": 1404.66
+      },
+      {
+        "session": "2025-09-22",
+        "equity_usd": 1406.66
+      },
+      {
+        "session": "2025-09-23",
+        "equity_usd": 1401.66
+      },
+      {
+        "session": "2025-09-24",
+        "equity_usd": 1393.17
+      },
+      {
+        "session": "2025-09-25",
+        "equity_usd": 1384.23
+      },
+      {
+        "session": "2025-09-26",
+        "equity_usd": 1387.74
+      },
+      {
+        "session": "2025-09-29",
+        "equity_usd": 1391.64
+      },
+      {
+        "session": "2025-09-30",
+        "equity_usd": 1400.41
+      },
+      {
+        "session": "2025-10-01",
+        "equity_usd": 1409.53
+      },
+      {
+        "session": "2025-10-02",
+        "equity_usd": 1402.93
+      },
+      {
+        "session": "2025-10-03",
+        "equity_usd": 1399.07
+      },
+      {
+        "session": "2025-10-06",
+        "equity_usd": 1392.87
+      },
+      {
+        "session": "2025-10-07",
+        "equity_usd": 1393.14
+      },
+      {
+        "session": "2025-10-08",
+        "equity_usd": 1395.86
+      },
+      {
+        "session": "2025-10-09",
+        "equity_usd": 1396.65
+      },
+      {
+        "session": "2025-10-10",
+        "equity_usd": 1379.5
+      },
+      {
+        "session": "2025-10-13",
+        "equity_usd": 1387.06
+      },
+      {
+        "session": "2025-10-14",
+        "equity_usd": 1391.96
+      },
+      {
+        "session": "2025-10-15",
+        "equity_usd": 1393.65
+      },
+      {
+        "session": "2025-10-16",
+        "equity_usd": 1391.95
+      },
+      {
+        "session": "2025-10-17",
+        "equity_usd": 1402.41
+      },
+      {
+        "session": "2025-10-20",
+        "equity_usd": 1417.08
+      },
+      {
+        "session": "2025-10-21",
+        "equity_usd": 1414.38
+      },
+      {
+        "session": "2025-10-22",
+        "equity_usd": 1408.09
+      },
+      {
+        "session": "2025-10-23",
+        "equity_usd": 1411.59
+      },
+      {
+        "session": "2025-10-24",
+        "equity_usd": 1420.15
+      },
+      {
+        "session": "2025-10-27",
+        "equity_usd": 1427.13
+      },
+      {
+        "session": "2025-10-28",
+        "equity_usd": 1427.58
+      },
+      {
+        "session": "2025-10-29",
+        "equity_usd": 1425.66
+      },
+      {
+        "session": "2025-10-30",
+        "equity_usd": 1409.63
+      },
+      {
+        "session": "2025-10-31",
+        "equity_usd": 1403.08
+      },
+      {
+        "session": "2025-11-03",
+        "equity_usd": 1399.64
+      },
+      {
+        "session": "2025-11-04",
+        "equity_usd": 1397.08
+      },
+      {
+        "session": "2025-11-05",
+        "equity_usd": 1393.15
+      },
+      {
+        "session": "2025-11-06",
+        "equity_usd": 1388.26
+      },
+      {
+        "session": "2025-11-07",
+        "equity_usd": 1389.5
+      },
+      {
+        "session": "2025-11-10",
+        "equity_usd": 1395.46
+      },
+      {
+        "session": "2025-11-11",
+        "equity_usd": 1414.3
+      },
+      {
+        "session": "2025-11-12",
+        "equity_usd": 1410.91
+      },
+      {
+        "session": "2025-11-13",
+        "equity_usd": 1408.53
+      },
+      {
+        "session": "2025-11-14",
+        "equity_usd": 1410.1
+      },
+      {
+        "session": "2025-11-17",
+        "equity_usd": 1407.26
+      },
+      {
+        "session": "2025-11-18",
+        "equity_usd": 1406.41
+      },
+      {
+        "session": "2025-11-19",
+        "equity_usd": 1408.47
+      },
+      {
+        "session": "2025-11-20",
+        "equity_usd": 1400.95
+      },
+      {
+        "session": "2025-11-21",
+        "equity_usd": 1408.24
+      },
+      {
+        "session": "2025-11-24",
+        "equity_usd": 1409.63
+      },
+      {
+        "session": "2025-11-25",
+        "equity_usd": 1414.16
+      },
+      {
+        "session": "2025-11-26",
+        "equity_usd": 1416.02
+      },
+      {
+        "session": "2025-11-28",
+        "equity_usd": 1419.52
+      },
+      {
+        "session": "2025-12-01",
+        "equity_usd": 1415.48
+      },
+      {
+        "session": "2025-12-02",
+        "equity_usd": 1416.11
+      },
+      {
+        "session": "2025-12-03",
+        "equity_usd": 1420.14
+      },
+      {
+        "session": "2025-12-04",
+        "equity_usd": 1415.68
+      },
+      {
+        "session": "2025-12-05",
+        "equity_usd": 1415.2
+      },
+      {
+        "session": "2025-12-08",
+        "equity_usd": 1411.89
+      },
+      {
+        "session": "2025-12-09",
+        "equity_usd": 1408.78
+      },
+      {
+        "session": "2025-12-10",
+        "equity_usd": 1415.35
+      },
+      {
+        "session": "2025-12-11",
+        "equity_usd": 1422.33
+      },
+      {
+        "session": "2025-12-12",
+        "equity_usd": 1423.76
+      },
+      {
+        "session": "2025-12-15",
+        "equity_usd": 1423.95
+      },
+      {
+        "session": "2025-12-16",
+        "equity_usd": 1418.3
+      },
+      {
+        "session": "2025-12-17",
+        "equity_usd": 1418.71
+      },
+      {
+        "session": "2025-12-18",
+        "equity_usd": 1414.77
+      },
+      {
+        "session": "2025-12-19",
+        "equity_usd": 1417.22
+      },
+      {
+        "session": "2025-12-22",
+        "equity_usd": 1422.53
+      },
+      {
+        "session": "2025-12-23",
+        "equity_usd": 1425.95
+      },
+      {
+        "session": "2025-12-24",
+        "equity_usd": 1431.06
+      },
+      {
+        "session": "2025-12-26",
+        "equity_usd": 1432.74
+      },
+      {
+        "session": "2025-12-29",
+        "equity_usd": 1431.59
+      },
+      {
+        "session": "2025-12-30",
+        "equity_usd": 1433.57
+      },
+      {
+        "session": "2025-12-31",
+        "equity_usd": 1426.96
+      },
+      {
+        "session": "2026-01-02",
+        "equity_usd": 1429.3
+      },
+      {
+        "session": "2026-01-05",
+        "equity_usd": 1427.28
+      },
+      {
+        "session": "2026-01-06",
+        "equity_usd": 1430.76
+      },
+      {
+        "session": "2026-01-07",
+        "equity_usd": 1443.03
+      },
+      {
+        "session": "2026-01-08",
+        "equity_usd": 1435.59
+      },
+      {
+        "session": "2026-01-09",
+        "equity_usd": 1434.86
+      },
+      {
+        "session": "2026-01-12",
+        "equity_usd": 1437.36
+      },
+      {
+        "session": "2026-01-13",
+        "equity_usd": 1434.73
+      },
+      {
+        "session": "2026-01-14",
+        "equity_usd": 1442.64
+      },
+      {
+        "session": "2026-01-15",
+        "equity_usd": 1442.19
+      },
+      {
+        "session": "2026-01-16",
+        "equity_usd": 1435.37
+      },
+      {
+        "session": "2026-01-20",
+        "equity_usd": 1426.19
+      },
+      {
+        "session": "2026-01-21",
+        "equity_usd": 1437.58
+      },
+      {
+        "session": "2026-01-22",
+        "equity_usd": 1432.11
+      },
+      {
+        "session": "2026-01-23",
+        "equity_usd": 1426.8
+      },
+      {
+        "session": "2026-01-26",
+        "equity_usd": 1433.2
+      },
+      {
+        "session": "2026-01-27",
+        "equity_usd": 1435.67
+      },
+      {
+        "session": "2026-01-28",
+        "equity_usd": 1425.16
+      },
+      {
+        "session": "2026-01-29",
+        "equity_usd": 1443.99
+      },
+      {
+        "session": "2026-01-30",
+        "equity_usd": 1446.86
+      },
+      {
+        "session": "2026-02-02",
+        "equity_usd": 1455.72
+      },
+      {
+        "session": "2026-02-03",
+        "equity_usd": 1445.62
+      },
+      {
+        "session": "2026-02-04",
+        "equity_usd": 1450.52
+      },
+      {
+        "session": "2026-02-05",
+        "equity_usd": 1444.3
+      },
+      {
+        "session": "2026-02-06",
+        "equity_usd": 1460.38
+      },
+      {
+        "session": "2026-02-09",
+        "equity_usd": 1458.96
+      },
+      {
+        "session": "2026-02-10",
+        "equity_usd": 1460.44
+      },
+      {
+        "session": "2026-02-11",
+        "equity_usd": 1460.19
+      },
+      {
+        "session": "2026-02-12",
+        "equity_usd": 1455.88
+      },
+      {
+        "session": "2026-02-13",
+        "equity_usd": 1459.43
+      },
+      {
+        "session": "2026-02-17",
+        "equity_usd": 1453.64
+      },
+      {
+        "session": "2026-02-18",
+        "equity_usd": 1457.82
+      },
+      {
+        "session": "2026-02-19",
+        "equity_usd": 1451.68
+      },
+      {
+        "session": "2026-02-20",
+        "equity_usd": 1449.71
+      },
+      {
+        "session": "2026-02-23",
+        "equity_usd": 1453.48
+      },
+      {
+        "session": "2026-02-24",
+        "equity_usd": 1454.78
+      },
+      {
+        "session": "2026-02-25",
+        "equity_usd": 1449.57
+      },
+      {
+        "session": "2026-02-26",
+        "equity_usd": 1448.33
+      },
+      {
+        "session": "2026-02-27",
+        "equity_usd": 1459.33
+      },
+      {
+        "session": "2026-03-02",
+        "equity_usd": 1460.21
+      },
+      {
+        "session": "2026-03-03",
+        "equity_usd": 1455.65
+      },
+      {
+        "session": "2026-03-04",
+        "equity_usd": 1459.94
+      },
+      {
+        "session": "2026-03-05",
+        "equity_usd": 1451.52
+      },
+      {
+        "session": "2026-03-06",
+        "equity_usd": 1443.13
+      },
+      {
+        "session": "2026-03-09",
+        "equity_usd": 1449.77
+      },
+      {
+        "session": "2026-03-10",
+        "equity_usd": 1451.04
+      },
+      {
+        "session": "2026-03-11",
+        "equity_usd": 1442.38
+      },
+      {
+        "session": "2026-03-12",
+        "equity_usd": 1428.56
+      },
+      {
+        "session": "2026-03-13",
+        "equity_usd": 1423.47
+      },
+      {
+        "session": "2026-03-16",
+        "equity_usd": 1435.13
+      },
+      {
+        "session": "2026-03-17",
+        "equity_usd": 1431.12
+      },
+      {
+        "session": "2026-03-18",
+        "equity_usd": 1408.81
+      },
+      {
+        "session": "2026-03-19",
+        "equity_usd": 1403.09
+      },
+      {
+        "session": "2026-03-20",
+        "equity_usd": 1394.35
+      },
+      {
+        "session": "2026-03-23",
+        "equity_usd": 1403.68
+      },
+      {
+        "session": "2026-03-24",
+        "equity_usd": 1397.82
+      },
+      {
+        "session": "2026-03-25",
+        "equity_usd": 1403.0
+      },
+      {
+        "session": "2026-03-26",
+        "equity_usd": 1401.25
+      },
+      {
+        "session": "2026-03-27",
+        "equity_usd": 1387.28
+      },
+      {
+        "session": "2026-03-30",
+        "equity_usd": 1392.46
+      },
+      {
+        "session": "2026-03-31",
+        "equity_usd": 1402.4
+      },
+      {
+        "session": "2026-04-01",
+        "equity_usd": 1401.49
+      },
+      {
+        "session": "2026-04-02",
+        "equity_usd": 1401.92
+      },
+      {
+        "session": "2026-04-06",
+        "equity_usd": 1401.98
+      },
+      {
+        "session": "2026-04-07",
+        "equity_usd": 1401.68
+      },
+      {
+        "session": "2026-04-08",
+        "equity_usd": 1407.74
+      },
+      {
+        "session": "2026-04-09",
+        "equity_usd": 1405.29
+      },
+      {
+        "session": "2026-04-10",
+        "equity_usd": 1400.45
+      },
+      {
+        "session": "2026-04-13",
+        "equity_usd": 1407.54
+      },
+      {
+        "session": "2026-04-14",
+        "equity_usd": 1407.77
+      },
+      {
+        "session": "2026-04-15",
+        "equity_usd": 1411.05
+      },
+      {
+        "session": "2026-04-16",
+        "equity_usd": 1414.01
+      },
+      {
+        "session": "2026-04-17",
+        "equity_usd": 1420.47
+      },
+      {
+        "session": "2026-04-20",
+        "equity_usd": 1411.1
+      },
+      {
+        "session": "2026-04-21",
+        "equity_usd": 1399.06
+      },
+      {
+        "session": "2026-04-22",
+        "equity_usd": 1398.07
+      },
+      {
+        "session": "2026-04-23",
+        "equity_usd": 1387.74
+      },
+      {
+        "session": "2026-04-24",
+        "equity_usd": 1380.15
+      },
+      {
+        "session": "2026-04-27",
+        "equity_usd": 1373.13
+      },
+      {
+        "session": "2026-04-28",
+        "equity_usd": 1379.39
+      },
+      {
+        "session": "2026-04-29",
+        "equity_usd": 1398.8
+      },
+      {
+        "session": "2026-04-30",
+        "equity_usd": 1402.67
+      },
+      {
+        "session": "2026-05-01",
+        "equity_usd": 1391.97
+      },
+      {
+        "session": "2026-05-04",
+        "equity_usd": 1388.4
+      },
+      {
+        "session": "2026-05-05",
+        "equity_usd": 1387.86
+      },
+      {
+        "session": "2026-05-06",
+        "equity_usd": 1382.53
+      },
+      {
+        "session": "2026-05-07",
+        "equity_usd": 1373.54
+      },
+      {
+        "session": "2026-05-08",
+        "equity_usd": 1363.3
+      },
+      {
+        "session": "2026-05-11",
+        "equity_usd": 1370.69
+      },
+      {
+        "session": "2026-05-12",
+        "equity_usd": 1382.52
+      },
+      {
+        "session": "2026-05-13",
+        "equity_usd": 1371.63
+      },
+      {
+        "session": "2026-05-14",
+        "equity_usd": 1374.11
+      },
+      {
+        "session": "2026-05-15",
+        "equity_usd": 1371.28
+      },
+      {
+        "session": "2026-05-18",
+        "equity_usd": 1387.91
+      },
+      {
+        "session": "2026-05-19",
+        "equity_usd": 1394.08
+      },
+      {
+        "session": "2026-05-20",
+        "equity_usd": 1394.03
+      },
+      {
+        "session": "2026-05-21",
+        "equity_usd": 1400.27
+      },
+      {
+        "session": "2026-05-22",
+        "equity_usd": 1405.6
+      },
+      {
+        "session": "2026-05-26",
+        "equity_usd": 1399.93
+      },
+      {
+        "session": "2026-05-27",
+        "equity_usd": 1407.37
+      },
+      {
+        "session": "2026-05-28",
+        "equity_usd": 1411.39
+      },
+      {
+        "session": "2026-05-29",
+        "equity_usd": 1408.26
+      },
+      {
+        "session": "2026-06-01",
+        "equity_usd": 1405.53
+      },
+      {
+        "session": "2026-06-02",
+        "equity_usd": 1396.95
+      },
+      {
+        "session": "2026-06-03",
+        "equity_usd": 1395.24
+      },
+      {
+        "session": "2026-06-04",
+        "equity_usd": 1418.1
+      },
+      {
+        "session": "2026-06-05",
+        "equity_usd": 1420.1
+      },
+      {
+        "session": "2026-06-08",
+        "equity_usd": 1404.91
+      },
+      {
+        "session": "2026-06-09",
+        "equity_usd": 1416.05
+      },
+      {
+        "session": "2026-06-10",
+        "equity_usd": 1405.54
+      },
+      {
+        "session": "2026-06-11",
+        "equity_usd": 1416.68
+      },
+      {
+        "session": "2026-06-12",
+        "equity_usd": 1421.76
+      },
+      {
+        "session": "2026-06-15",
+        "equity_usd": 1417.41
+      },
+      {
+        "session": "2026-06-16",
+        "equity_usd": 1423.87
+      },
+      {
+        "session": "2026-06-17",
+        "equity_usd": 1401.17
+      },
+      {
+        "session": "2026-06-18",
+        "equity_usd": 1388.94
+      },
+      {
+        "session": "2026-06-22",
+        "equity_usd": 1391.98
+      },
+      {
+        "session": "2026-06-23",
+        "equity_usd": 1405.11
+      },
+      {
+        "session": "2026-06-24",
+        "equity_usd": 1397.79
+      },
+      {
+        "session": "2026-06-25",
+        "equity_usd": 1394.86
+      },
+      {
+        "session": "2026-06-26",
+        "equity_usd": 1418.33
+      },
+      {
+        "session": "2026-06-29",
+        "equity_usd": 1421.22
+      },
+      {
+        "session": "2026-06-30",
+        "equity_usd": 1409.48
+      },
+      {
+        "session": "2026-07-01",
+        "equity_usd": 1427.37
+      },
+      {
+        "session": "2026-07-02",
+        "equity_usd": 1458.63
+      },
+      {
+        "session": "2026-07-06",
+        "equity_usd": 1450.73
+      },
+      {
+        "session": "2026-07-07",
+        "equity_usd": 1467.23
+      },
+      {
+        "session": "2026-07-08",
+        "equity_usd": 1451.7
+      },
+      {
+        "session": "2026-07-09",
+        "equity_usd": 1454.79
+      },
+      {
+        "session": "2026-07-10",
+        "equity_usd": 1452.55
+      },
+      {
+        "session": "2026-07-13",
+        "equity_usd": 1463.27
+      },
+      {
+        "session": "2026-07-14",
+        "equity_usd": 1453.93
+      },
+      {
+        "session": "2026-07-15",
+        "equity_usd": 1465.69
+      },
+      {
+        "session": "2026-07-16",
+        "equity_usd": 1502.71
+      },
+      {
+        "session": "2026-07-17",
+        "equity_usd": 1493.58
+      },
+      {
+        "session": "2026-07-20",
+        "equity_usd": 1488.83
+      },
+      {
+        "session": "2026-07-21",
+        "equity_usd": 1497.11
+      },
+      {
+        "session": "2026-07-22",
+        "equity_usd": 1495.41
+      },
+      {
+        "session": "2026-07-23",
+        "equity_usd": 1488.98
+      },
+      {
+        "session": "2026-07-24",
+        "equity_usd": 1499.27
+      },
+      {
+        "session": "2026-07-27",
+        "equity_usd": 1512.72
+      },
+      {
+        "session": "2026-07-28",
+        "equity_usd": 1526.69
+      },
+      {
+        "session": "2026-07-29",
+        "equity_usd": 1522.65
+      },
+      {
+        "session": "2026-07-30",
+        "equity_usd": 1512.06
+      },
+      {
+        "session": "2026-07-31",
+        "equity_usd": 1509.94
+      },
+      {
+        "session": "2026-08-03",
+        "equity_usd": 1515.56
+      },
+      {
+        "session": "2026-08-04",
+        "equity_usd": 1520.16
+      },
+      {
+        "session": "2026-08-05",
+        "equity_usd": 1521.25
+      },
+      {
+        "session": "2026-08-06",
+        "equity_usd": 1522.3
+      },
+      {
+        "session": "2026-08-07",
+        "equity_usd": 1524.73
+      },
+      {
+        "session": "2026-08-10",
+        "equity_usd": 1527.79
+      },
+      {
+        "session": "2026-08-11",
+        "equity_usd": 1528.55
+      },
+      {
+        "session": "2026-08-12",
+        "equity_usd": 1531.33
+      },
+      {
+        "session": "2026-08-13",
+        "equity_usd": 1546.52
+      },
+      {
+        "session": "2026-08-14",
+        "equity_usd": 1545.26
+      },
+      {
+        "session": "2026-08-17",
+        "equity_usd": 1536.0
+      },
+      {
+        "session": "2026-08-18",
+        "equity_usd": 1554.09
+      },
+      {
+        "session": "2026-08-19",
+        "equity_usd": 1576.62
+      },
+      {
+        "session": "2026-08-20",
+        "equity_usd": 1564.45
+      },
+      {
+        "session": "2026-08-21",
+        "equity_usd": 1581.25
+      },
+      {
+        "session": "2026-08-24",
+        "equity_usd": 1587.27
+      },
+      {
+        "session": "2026-08-25",
+        "equity_usd": 1591.78
+      },
+      {
+        "session": "2026-08-26",
+        "equity_usd": 1582.4
+      },
+      {
+        "session": "2026-08-27",
+        "equity_usd": 1570.05
+      },
+      {
+        "session": "2026-08-28",
+        "equity_usd": 1572.66
+      },
+      {
+        "session": "2026-08-31",
+        "equity_usd": 1565.34
+      },
+      {
+        "session": "2026-09-01",
+        "equity_usd": 1578.06
+      },
+      {
+        "session": "2026-09-02",
+        "equity_usd": 1583.98
+      },
+      {
+        "session": "2026-09-03",
+        "equity_usd": 1594.87
+      },
+      {
+        "session": "2026-09-04",
+        "equity_usd": 1581.09
+      },
+      {
+        "session": "2026-09-08",
+        "equity_usd": 1559.3
+      },
+      {
+        "session": "2026-09-09",
+        "equity_usd": 1551.69
+      },
+      {
+        "session": "2026-09-10",
+        "equity_usd": 1544.0
+      },
+      {
+        "session": "2026-09-11",
+        "equity_usd": 1545.85
+      },
+      {
+        "session": "2026-09-14",
+        "equity_usd": 1557.41
+      },
+      {
+        "session": "2026-09-15",
+        "equity_usd": 1556.2
+      },
+      {
+        "session": "2026-09-16",
+        "equity_usd": 1550.57
+      },
+      {
+        "session": "2026-09-17",
+        "equity_usd": 1566.63
+      },
+      {
+        "session": "2026-09-18",
+        "equity_usd": 1560.26
+      },
+      {
+        "session": "2026-09-21",
+        "equity_usd": 1573.85
+      },
+      {
+        "session": "2026-09-22",
+        "equity_usd": 1574.23
+      },
+      {
+        "session": "2026-09-23",
+        "equity_usd": 1568.73
+      },
+      {
+        "session": "2026-09-24",
+        "equity_usd": 1567.09
+      },
+      {
+        "session": "2026-09-25",
+        "equity_usd": 1568.08
+      },
+      {
+        "session": "2026-09-28",
+        "equity_usd": 1561.3
+      },
+      {
+        "session": "2026-09-29",
+        "equity_usd": 1553.48
+      },
+      {
+        "session": "2026-09-30",
+        "equity_usd": 1536.15
+      },
+      {
+        "session": "2026-10-01",
+        "equity_usd": 1519.82
+      },
+      {
+        "session": "2026-10-02",
+        "equity_usd": 1519.74
+      },
+      {
+        "session": "2026-10-05",
+        "equity_usd": 1522.01
+      },
+      {
+        "session": "2026-10-06",
+        "equity_usd": 1530.94
+      },
+      {
+        "session": "2026-10-07",
+        "equity_usd": 1534.93
+      },
+      {
+        "session": "2026-10-08",
+        "equity_usd": 1539.8
+      },
+      {
+        "session": "2026-10-09",
+        "equity_usd": 1564.64
+      }
+    ]
+  }
+}
