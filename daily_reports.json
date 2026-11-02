@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:55:30.761404+00:00",
+  "updated_at": "2026-11-02T15:15:18.913739+00:00",
   "is_simulation": true,
   "reports": [
     {
@@ -978,7 +978,7 @@
       "date": "2026-10-30",
       "day": 8,
       "is_simulation": true,
-      "headline": "Day 8 \u2014 Oct 30, 2026: Your $1,000.00 budget is now $1,013.05 (+$13.05 / +1.31%).",
+      "headline": "Day 8 \u2014 Oct 30, 2026: Your $1,000.00 budget is now $1,013.06 (+$13.06 / +1.31%).",
       "bullets": [
         "Held 0.4239 shares of ABBV \u2014 you paid $283.10 each and they are now $294.83 each, so you are up $4.97.",
         "Held 4.0302 shares of PFE \u2014 you paid $29.77 each and they are now $30.26 each, so you are up $1.97."
@@ -987,11 +987,11 @@
         "initial_budget_usd": 1000.0,
         "cash_usd": 766.11,
         "invested_usd": 246.95,
-        "total_equity_usd": 1013.05,
-        "net_profit_usd": 13.05,
-        "net_profit_pct": 1.3054,
-        "daily_change_usd": 2.98,
-        "daily_change_pct": 0.2954,
+        "total_equity_usd": 1013.06,
+        "net_profit_usd": 13.06,
+        "net_profit_pct": 1.3056,
+        "daily_change_usd": 2.99,
+        "daily_change_pct": 0.2957,
         "total_fees_slippage_usd": 0.88,
         "days_elapsed": 8
       },
@@ -1043,6 +1043,79 @@
           "archetype": "healthcare",
           "entry_session": "2026-10-21",
           "decision_locked_at_utc": "2026-10-30T14:55:30.714228+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/PFE"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "day": 9,
+      "is_simulation": true,
+      "headline": "Day 9 \u2014 Nov 2, 2026: Your $1,000.00 budget is now $1,009.93 (+$9.93 / +0.99%).",
+      "bullets": [
+        "Held 0.4239 shares of ABBV \u2014 you paid $283.10 each and they are now $287.61 each, so you are up $1.91.",
+        "Held 4.0302 shares of PFE \u2014 you paid $29.77 each and they are now $30.25 each, so you are up $1.91."
+      ],
+      "summary": {
+        "initial_budget_usd": 1000.0,
+        "cash_usd": 766.11,
+        "invested_usd": 243.83,
+        "total_equity_usd": 1009.93,
+        "net_profit_usd": 9.93,
+        "net_profit_pct": 0.9933,
+        "daily_change_usd": -3.13,
+        "daily_change_pct": -0.3086,
+        "total_fees_slippage_usd": 0.88,
+        "days_elapsed": 9
+      },
+      "trades": [],
+      "how_to_check": {
+        "headline": "How to check this is real",
+        "explanation": "Open each link below and compare the price on Yahoo Finance with the price written here. When they match, you are looking at real market prices. The 'locked at' time is the exact moment the paper decision was made.",
+        "positions": [
+          {
+            "ticker": "ABBV",
+            "yahoo_url": "https://finance.yahoo.com/quote/ABBV",
+            "decision_locked_at_utc": "2026-11-02T15:15:18.872966+00:00",
+            "entry_price": 283.1,
+            "current_price": 287.61
+          },
+          {
+            "ticker": "PFE",
+            "yahoo_url": "https://finance.yahoo.com/quote/PFE",
+            "decision_locked_at_utc": "2026-11-02T15:15:18.872966+00:00",
+            "entry_price": 29.77,
+            "current_price": 30.25
+          }
+        ]
+      },
+      "positions": [
+        {
+          "ticker": "ABBV",
+          "shares": 0.4238762850120061,
+          "entry_price": 283.10147145080566,
+          "current_price": 287.6099853515625,
+          "cost_basis_usd": 120.0,
+          "current_value_usd": 121.91,
+          "unrealized_pnl_usd": 1.91,
+          "unrealized_pnl_pct": 1.5925,
+          "archetype": "healthcare",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-11-02T15:15:18.872966+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
+        },
+        {
+          "ticker": "PFE",
+          "shares": 4.03022948037034,
+          "entry_price": 29.774979460716246,
+          "current_price": 30.25,
+          "cost_basis_usd": 120.0,
+          "current_value_usd": 121.91,
+          "unrealized_pnl_usd": 1.91,
+          "unrealized_pnl_pct": 1.5954,
+          "archetype": "healthcare",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-11-02T15:15:18.872966+00:00",
           "yahoo_url": "https://finance.yahoo.com/quote/PFE"
         }
       ]
