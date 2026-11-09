@@ -1,6 +1,6 @@
 # 📄 Quant Bot — Public Paper-Trading Proof
 
-_Last refreshed: 2026-11-07T20:57:08.336789+00:00 · published from `quant-bot-live-proof`._
+_Last refreshed: 2026-11-09T15:03:26.473710+00:00 · published from `quant-bot-live-proof`._
 
 ---
 
@@ -8,38 +8,38 @@ _Last refreshed: 2026-11-07T20:57:08.336789+00:00 · published from `quant-bot-l
 
 | Metric | Value |
 | --- | ---: |
-| Wallet value (started at $1,000.00) | **$1,008.04** |
-| Total return | **+0.80%** |
-| Profit / loss | $8.04 |
+| Wallet value (started at $1,000.00) | **$1,006.81** |
+| Total return | **+0.68%** |
+| Profit / loss | $6.81 |
 | Cash on hand | $766.11 |
-| Invested in stocks | $241.93 |
+| Invested in stocks | $240.70 |
 | Fees + slippage paid | $0.88 |
-| Days tracked | 11 |
+| Days tracked | 12 |
 | Started | 2026-10-21 |
 
 ## Today's positions
 
 | Ticker | Sector | Shares | Paid | Now | Value | P&L | Verify |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| **ABBV** | healthcare | 0.4239 | $283.10 | $291.31 | $123.48 | +2.90% | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
-| **PFE** | healthcare | 4.0302 | $29.77 | $29.39 | $118.45 | -1.29% | [Yahoo](https://finance.yahoo.com/quote/PFE) |
+| **ABBV** | healthcare | 0.4239 | $283.10 | $291.08 | $123.38 | +2.82% | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
+| **PFE** | healthcare | 4.0302 | $29.77 | $29.11 | $117.32 | -2.23% | [Yahoo](https://finance.yahoo.com/quote/PFE) |
 
 ## Today's scan — diversified Top-10 candidates
 
-_Session 2026-11-06 (data as of 2026-11-06; source live_latest_session)._
+_Session 2026-11-09 (data as of 2026-11-09; source live_latest_session)._
 
 | # | Ticker | Sector | Conviction | Edge (bps) | Target | Verify |
 | ---: | --- | --- | ---: | ---: | ---: | --- |
-| 1 | **ABBV** | healthcare | 56.5% | 124.2 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
-| 2 | **PFE** | healthcare | 55.8% | 119.3 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/PFE) |
-| 3 | **ADBE** | technology | 53.5% | 46.6 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ADBE) |
-| 4 | **AAPL** | technology | 53.1% | 20.7 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AAPL) |
-| 5 | **AEP** | utilities | 52.4% | 19.6 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AEP) |
-| 6 | **ALGT** | industrials | 50.8% | 15.5 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ALGT) |
-| 7 | **ADNT** | industrials | 50.6% | 14.3 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ADNT) |
-| 8 | **ALTG** | consumer | 50.2% | 8.6 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ALTG) |
-| 9 | **AFGE** | financials | 51.3% | 0.0 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AFGE) |
-| 10 | **AGO** | financials | 51.9% | 0.0 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AGO) |
+| 1 | **ABBV** | healthcare | 56.6% | 124.3 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
+| 2 | **PFE** | healthcare | 56.1% | 119.2 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/PFE) |
+| 3 | **ADBE** | technology | 54.3% | 48.6 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ADBE) |
+| 4 | **AAPL** | technology | 53.1% | 19.3 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AAPL) |
+| 5 | **AEP** | utilities | 52.7% | 21.2 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AEP) |
+| 6 | **ALGT** | industrials | 51.4% | 16.1 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ALGT) |
+| 7 | **ADNT** | industrials | 51.0% | 14.9 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ADNT) |
+| 8 | **AFGE** | financials | 51.2% | 0.0 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AFGE) |
+| 9 | **AGO** | financials | 51.8% | 0.0 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AGO) |
+| 10 | **ALTG** | consumer | 49.6% | 1.7 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ALTG) |
 
 ## Out-of-sample simulation
 
@@ -125,10 +125,16 @@ _Session 2026-11-06 (data as of 2026-11-06; source live_latest_session)._
 - Held 0.4239 shares of ABBV — you paid $283.10 each and they are now $291.31 each, so you are up $3.48.
 - Held 4.0302 shares of PFE — you paid $29.77 each and they are now $29.39 each, so you are down $1.55.
 
+#### 2026-11-09 — day 12
+**Day 12 — Nov 9, 2026: Your $1,000.00 budget is now $1,006.81 (+$6.81 / +0.68%).**
+- Held 0.4239 shares of ABBV — you paid $283.10 each and they are now $291.08 each, so you are up $3.38.
+- Held 4.0302 shares of PFE — you paid $29.77 each and they are now $29.11 each, so you are down $2.68.
+
 ## Daily archive — one immutable file per session
 
 | Date | Wallet value | Return | Snapshot |
 | --- | ---: | ---: | --- |
+| 2026-11-09 | $1,006.81 | +0.68% | [2026-11-09.json](daily/2026-11-09.json) |
 | 2026-11-06 | $1,008.04 | +0.80% | [2026-11-06.json](daily/2026-11-06.json) |
 | 2026-11-05 | $1,013.58 | +1.36% | [2026-11-05.json](daily/2026-11-05.json) |
 | 2026-11-02 | $1,011.86 | +1.19% | [2026-11-02.json](daily/2026-11-02.json) |
