@@ -1,6 +1,6 @@
 {
-  "session": "2026-11-09",
-  "data_as_of": "2026-11-09",
+  "session": "2026-11-10",
+  "data_as_of": "2026-11-10",
   "stale_days": 0,
   "source": "live_latest_session",
   "capital": 1000.0,
@@ -9,71 +9,71 @@
     {
       "ticker": "ABBV",
       "archetype": "healthcare",
-      "conviction": 0.566123355954235,
-      "conviction_p": 0.566123355954235,
-      "edge_bps": 124.3,
+      "conviction": 0.5668369528651136,
+      "conviction_p": 0.5668369528651136,
+      "edge_bps": 124.5,
       "target_usd": 120.0,
       "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
     },
     {
       "ticker": "PFE",
       "archetype": "healthcare",
-      "conviction": 0.5613957498152494,
-      "conviction_p": 0.5613957498152494,
-      "edge_bps": 119.2,
+      "conviction": 0.553897552519228,
+      "conviction_p": 0.553897552519228,
+      "edge_bps": 119.1,
       "target_usd": 120.0,
       "yahoo_url": "https://finance.yahoo.com/quote/PFE"
     },
     {
       "ticker": "ADBE",
       "archetype": "technology",
-      "conviction": 0.5431346038921347,
-      "conviction_p": 0.5431346038921347,
-      "edge_bps": 48.6,
+      "conviction": 0.5339457287409076,
+      "conviction_p": 0.5339457287409076,
+      "edge_bps": 21.3,
       "target_usd": 0.0,
       "yahoo_url": "https://finance.yahoo.com/quote/ADBE"
     },
     {
       "ticker": "AAPL",
       "archetype": "technology",
-      "conviction": 0.5307803823925722,
-      "conviction_p": 0.5307803823925722,
-      "edge_bps": 19.3,
+      "conviction": 0.5298852331977848,
+      "conviction_p": 0.5298852331977848,
+      "edge_bps": 20.2,
       "target_usd": 0.0,
       "yahoo_url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
-      "ticker": "AEP",
-      "archetype": "utilities",
-      "conviction": 0.5266553297918376,
-      "conviction_p": 0.5266553297918376,
-      "edge_bps": 21.2,
-      "target_usd": 0.0,
-      "yahoo_url": "https://finance.yahoo.com/quote/AEP"
-    },
-    {
       "ticker": "ALGT",
       "archetype": "industrials",
-      "conviction": 0.5141818989800311,
-      "conviction_p": 0.5141818989800311,
-      "edge_bps": 16.1,
+      "conviction": 0.5268690910667492,
+      "conviction_p": 0.5268690910667492,
+      "edge_bps": 18.2,
       "target_usd": 0.0,
       "yahoo_url": "https://finance.yahoo.com/quote/ALGT"
     },
     {
       "ticker": "ADNT",
       "archetype": "industrials",
-      "conviction": 0.5099203340038367,
-      "conviction_p": 0.5099203340038367,
-      "edge_bps": 14.9,
+      "conviction": 0.51678204180789,
+      "conviction_p": 0.51678204180789,
+      "edge_bps": 16.9,
       "target_usd": 0.0,
       "yahoo_url": "https://finance.yahoo.com/quote/ADNT"
     },
     {
+      "ticker": "AEP",
+      "archetype": "utilities",
+      "conviction": 0.5232845873563181,
+      "conviction_p": 0.5232845873563181,
+      "edge_bps": 19.0,
+      "target_usd": 0.0,
+      "yahoo_url": "https://finance.yahoo.com/quote/AEP"
+    },
+    {
       "ticker": "AFGE",
       "archetype": "financials",
-      "conviction": 0.5123106500841608,
-      "conviction_p": 0.5123106500841608,
+      "conviction": 0.5102411300686794,
+      "conviction_p": 0.5102411300686794,
       "edge_bps": 0.0,
       "target_usd": 0.0,
       "yahoo_url": "https://finance.yahoo.com/quote/AFGE"
@@ -81,20 +81,20 @@
     {
       "ticker": "AGO",
       "archetype": "financials",
-      "conviction": 0.5177320582823005,
-      "conviction_p": 0.5177320582823005,
+      "conviction": 0.5203368859315861,
+      "conviction_p": 0.5203368859315861,
       "edge_bps": 0.0,
       "target_usd": 0.0,
       "yahoo_url": "https://finance.yahoo.com/quote/AGO"
     },
     {
-      "ticker": "ALTG",
+      "ticker": "AIFA",
       "archetype": "consumer",
-      "conviction": 0.49608960051011575,
-      "conviction_p": 0.49608960051011575,
-      "edge_bps": 1.7,
+      "conviction": 0.48951614510246666,
+      "conviction_p": 0.48951614510246666,
+      "edge_bps": 1.6,
       "target_usd": 0.0,
-      "yahoo_url": "https://finance.yahoo.com/quote/ALTG"
+      "yahoo_url": "https://finance.yahoo.com/quote/AIFA"
     }
   ]
 }
