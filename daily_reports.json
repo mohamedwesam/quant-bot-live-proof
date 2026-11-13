@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T14:46:20.549051+00:00",
+  "updated_at": "2026-11-13T15:27:06.370378+00:00",
   "is_simulation": true,
   "reports": [
     {
@@ -1487,24 +1487,24 @@
     },
     {
       "date": "2026-11-12",
-      "day": 15,
+      "day": 16,
       "is_simulation": true,
-      "headline": "Day 15 \u2014 Nov 12, 2026: Your $1,000.00 budget is now $1,010.03 (+$10.03 / +1.00%).",
+      "headline": "Day 16 \u2014 Nov 12, 2026: Your $1,000.00 budget is now $1,007.65 (+$7.65 / +0.77%).",
       "bullets": [
         "Sold 0.0193 shares ($5.72) of ABBV (healthcare) at $296.46 \u2014 the AI decided to own a little less.",
-        "Held 4.0302 shares of PFE \u2014 you paid $29.77 each and they are now $29.33 each, so you are down $1.79."
+        "Held 4.0302 shares of PFE \u2014 you paid $29.77 each and they are now $28.95 each, so you are down $3.32."
       ],
       "summary": {
         "initial_budget_usd": 1000.0,
         "cash_usd": 771.83,
-        "invested_usd": 238.2,
-        "total_equity_usd": 1010.03,
-        "net_profit_usd": 10.03,
-        "net_profit_pct": 1.0035,
-        "daily_change_usd": 1.04,
-        "daily_change_pct": 0.1036,
+        "invested_usd": 235.82,
+        "total_equity_usd": 1007.65,
+        "net_profit_usd": 7.65,
+        "net_profit_pct": 0.7651,
+        "daily_change_usd": -1.72,
+        "daily_change_pct": -0.1703,
         "total_fees_slippage_usd": 0.89,
-        "days_elapsed": 15
+        "days_elapsed": 16
       },
       "trades": [
         {
@@ -1517,7 +1517,7 @@
           "archetype": "healthcare",
           "conviction_p": 0.5707179356158355,
           "reason": "rebalance_target",
-          "decision_locked_at_utc": "2026-11-12T14:46:20.441951+00:00",
+          "decision_locked_at_utc": "2026-11-12T14:46:21.898690+00:00",
           "slippage_bps": 5.0,
           "fees_usd": 0.0
         }
@@ -1529,16 +1529,16 @@
           {
             "ticker": "ABBV",
             "yahoo_url": "https://finance.yahoo.com/quote/ABBV",
-            "decision_locked_at_utc": "2026-11-12T14:46:20.441951+00:00",
+            "decision_locked_at_utc": "2026-11-12T14:46:21.898690+00:00",
             "entry_price": 283.1,
-            "current_price": 296.61
+            "current_price": 294.5
           },
           {
             "ticker": "PFE",
             "yahoo_url": "https://finance.yahoo.com/quote/PFE",
-            "decision_locked_at_utc": "2026-11-12T14:46:20.441951+00:00",
+            "decision_locked_at_utc": "2026-11-12T14:46:21.898690+00:00",
             "entry_price": 29.77,
-            "current_price": 29.33
+            "current_price": 28.95
           }
         ]
       },
@@ -1547,28 +1547,101 @@
           "ticker": "ABBV",
           "shares": 0.404568811073699,
           "entry_price": 283.10147145080566,
-          "current_price": 296.6050109863281,
+          "current_price": 294.5,
           "cost_basis_usd": 114.53,
-          "current_value_usd": 120.0,
-          "unrealized_pnl_usd": 5.46,
-          "unrealized_pnl_pct": 4.7699,
+          "current_value_usd": 119.15,
+          "unrealized_pnl_usd": 4.61,
+          "unrealized_pnl_pct": 4.0263,
           "archetype": "healthcare",
           "entry_session": "2026-10-21",
-          "decision_locked_at_utc": "2026-11-12T14:46:20.441951+00:00",
+          "decision_locked_at_utc": "2026-11-12T14:46:21.898690+00:00",
           "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
         },
         {
           "ticker": "PFE",
           "shares": 4.03022948037034,
           "entry_price": 29.774979460716246,
-          "current_price": 29.32990074157715,
+          "current_price": 28.950000762939453,
           "cost_basis_usd": 120.0,
-          "current_value_usd": 118.21,
-          "unrealized_pnl_usd": -1.79,
-          "unrealized_pnl_pct": -1.4948,
+          "current_value_usd": 116.68,
+          "unrealized_pnl_usd": -3.32,
+          "unrealized_pnl_pct": -2.7707,
           "archetype": "healthcare",
           "entry_session": "2026-10-21",
-          "decision_locked_at_utc": "2026-11-12T14:46:20.441951+00:00",
+          "decision_locked_at_utc": "2026-11-12T14:46:21.898690+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/PFE"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "day": 16,
+      "is_simulation": true,
+      "headline": "Day 16 \u2014 Nov 13, 2026: Your $1,000.00 budget is now $1,007.11 (+$7.11 / +0.71%).",
+      "bullets": [
+        "Held 0.4046 shares of ABBV \u2014 you paid $283.10 each and they are now $295.11 each, so you are up $4.86.",
+        "Held 4.0302 shares of PFE \u2014 you paid $29.77 each and they are now $28.75 each, so you are down $4.11."
+      ],
+      "summary": {
+        "initial_budget_usd": 1000.0,
+        "cash_usd": 771.83,
+        "invested_usd": 235.28,
+        "total_equity_usd": 1007.11,
+        "net_profit_usd": 7.11,
+        "net_profit_pct": 0.7115,
+        "daily_change_usd": -2.26,
+        "daily_change_pct": -0.2234,
+        "total_fees_slippage_usd": 0.89,
+        "days_elapsed": 16
+      },
+      "trades": [],
+      "how_to_check": {
+        "headline": "How to check this is real",
+        "explanation": "Open each link below and compare the price on Yahoo Finance with the price written here. When they match, you are looking at real market prices. The 'locked at' time is the exact moment the paper decision was made.",
+        "positions": [
+          {
+            "ticker": "ABBV",
+            "yahoo_url": "https://finance.yahoo.com/quote/ABBV",
+            "decision_locked_at_utc": "2026-11-13T15:27:06.262255+00:00",
+            "entry_price": 283.1,
+            "current_price": 295.11
+          },
+          {
+            "ticker": "PFE",
+            "yahoo_url": "https://finance.yahoo.com/quote/PFE",
+            "decision_locked_at_utc": "2026-11-13T15:27:06.262255+00:00",
+            "entry_price": 29.77,
+            "current_price": 28.75
+          }
+        ]
+      },
+      "positions": [
+        {
+          "ticker": "ABBV",
+          "shares": 0.404568811073699,
+          "entry_price": 283.10147145080566,
+          "current_price": 295.114013671875,
+          "cost_basis_usd": 114.53,
+          "current_value_usd": 119.39,
+          "unrealized_pnl_usd": 4.86,
+          "unrealized_pnl_pct": 4.2432,
+          "archetype": "healthcare",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-11-13T15:27:06.262255+00:00",
+          "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
+        },
+        {
+          "ticker": "PFE",
+          "shares": 4.03022948037034,
+          "entry_price": 29.774979460716246,
+          "current_price": 28.7549991607666,
+          "cost_basis_usd": 120.0,
+          "current_value_usd": 115.89,
+          "unrealized_pnl_usd": -4.11,
+          "unrealized_pnl_pct": -3.4256,
+          "archetype": "healthcare",
+          "entry_session": "2026-10-21",
+          "decision_locked_at_utc": "2026-11-13T15:27:06.262255+00:00",
           "yahoo_url": "https://finance.yahoo.com/quote/PFE"
         }
       ]

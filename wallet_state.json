@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-11-12T14:46:20.536016+00:00",
+  "updated_at": "2026-11-13T15:27:06.360225+00:00",
   "is_simulation": true,
   "initial_budget_usd": 1000.0,
   "start_date": "2026-10-21",
-  "days_elapsed": 15,
+  "days_elapsed": 16,
   "cash_balance_usd": 771.83,
-  "invested_market_value_usd": 238.2,
-  "total_equity_usd": 1010.03,
-  "net_profit_usd": 10.03,
-  "net_profit_pct": 1.0035,
+  "invested_market_value_usd": 235.28,
+  "total_equity_usd": 1007.11,
+  "net_profit_usd": 7.11,
+  "net_profit_pct": 0.7115,
   "total_fees_slippage_usd": 0.89,
   "benchmark_spy_start_price": null,
   "benchmark_spy_last_price": null,
-  "last_evaluated_session": "2026-11-12",
+  "last_evaluated_session": "2026-11-13",
   "positions": [
     {
       "ticker": "ABBV",
       "shares": 0.404568811073699,
       "entry_price": 283.10147145080566,
-      "current_price": 296.6050109863281,
+      "current_price": 295.114013671875,
       "cost_basis_usd": 114.53,
-      "current_value_usd": 120.0,
-      "unrealized_pnl_usd": 5.46,
-      "unrealized_pnl_pct": 4.7699,
+      "current_value_usd": 119.39,
+      "unrealized_pnl_usd": 4.86,
+      "unrealized_pnl_pct": 4.2432,
       "archetype": "healthcare",
       "entry_session": "2026-10-21",
-      "decision_locked_at_utc": "2026-11-12T14:46:20.441951+00:00",
+      "decision_locked_at_utc": "2026-11-13T15:27:06.262255+00:00",
       "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
     },
     {
       "ticker": "PFE",
       "shares": 4.03022948037034,
       "entry_price": 29.774979460716246,
-      "current_price": 29.32990074157715,
+      "current_price": 28.7549991607666,
       "cost_basis_usd": 120.0,
-      "current_value_usd": 118.21,
-      "unrealized_pnl_usd": -1.79,
-      "unrealized_pnl_pct": -1.4948,
+      "current_value_usd": 115.89,
+      "unrealized_pnl_usd": -4.11,
+      "unrealized_pnl_pct": -3.4256,
       "archetype": "healthcare",
       "entry_session": "2026-10-21",
-      "decision_locked_at_utc": "2026-11-12T14:46:20.441951+00:00",
+      "decision_locked_at_utc": "2026-11-13T15:27:06.262255+00:00",
       "yahoo_url": "https://finance.yahoo.com/quote/PFE"
     }
   ],
@@ -200,30 +200,26 @@
     },
     {
       "date": "2026-11-12",
-      "total_equity_usd": 1010.03,
+      "total_equity_usd": 1009.37,
       "cash_usd": 771.83,
-      "invested_usd": 238.2,
-      "daily_change_usd": 1.04,
-      "daily_change_pct": 0.1036,
+      "invested_usd": 237.54,
+      "daily_change_usd": 0.38,
+      "daily_change_pct": 0.0374,
       "benchmark_spy_eq_usd": 1000.0,
-      "net_profit_usd": 10.03,
-      "net_profit_pct": 1.0035
+      "net_profit_usd": 9.37,
+      "net_profit_pct": 0.9368
+    },
+    {
+      "date": "2026-11-13",
+      "total_equity_usd": 1007.11,
+      "cash_usd": 771.83,
+      "invested_usd": 235.28,
+      "daily_change_usd": -2.26,
+      "daily_change_pct": -0.2234,
+      "benchmark_spy_eq_usd": 1000.0,
+      "net_profit_usd": 7.11,
+      "net_profit_pct": 0.7115
     }
   ],
-  "trades": [
-    {
-      "date": "2026-11-12",
-      "ticker": "ABBV",
-      "side": "sell",
-      "shares": 0.019307,
-      "price": 296.46,
-      "notional_usd": 5.72,
-      "archetype": "healthcare",
-      "conviction_p": 0.5707179356158355,
-      "reason": "rebalance_target",
-      "decision_locked_at_utc": "2026-11-12T14:46:20.441951+00:00",
-      "slippage_bps": 5.0,
-      "fees_usd": 0.0
-    }
-  ]
+  "trades": []
 }
