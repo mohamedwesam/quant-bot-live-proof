@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:27:06.360225+00:00",
+  "updated_at": "2026-11-13T15:26:42.261739+00:00",
   "is_simulation": true,
   "initial_budget_usd": 1000.0,
   "start_date": "2026-10-21",
@@ -25,7 +25,7 @@
       "unrealized_pnl_pct": 4.2432,
       "archetype": "healthcare",
       "entry_session": "2026-10-21",
-      "decision_locked_at_utc": "2026-11-13T15:27:06.262255+00:00",
+      "decision_locked_at_utc": "2026-11-13T15:26:42.078179+00:00",
       "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
     },
     {
@@ -39,7 +39,7 @@
       "unrealized_pnl_pct": -3.4256,
       "archetype": "healthcare",
       "entry_session": "2026-10-21",
-      "decision_locked_at_utc": "2026-11-13T15:27:06.262255+00:00",
+      "decision_locked_at_utc": "2026-11-13T15:26:42.078179+00:00",
       "yahoo_url": "https://finance.yahoo.com/quote/PFE"
     }
   ],

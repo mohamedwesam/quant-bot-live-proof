@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:27:06.370378+00:00",
+  "updated_at": "2026-11-13T15:26:42.295701+00:00",
   "is_simulation": true,
   "reports": [
     {
@@ -1602,14 +1602,14 @@
           {
             "ticker": "ABBV",
             "yahoo_url": "https://finance.yahoo.com/quote/ABBV",
-            "decision_locked_at_utc": "2026-11-13T15:27:06.262255+00:00",
+            "decision_locked_at_utc": "2026-11-13T15:26:42.078179+00:00",
             "entry_price": 283.1,
             "current_price": 295.11
           },
           {
             "ticker": "PFE",
             "yahoo_url": "https://finance.yahoo.com/quote/PFE",
-            "decision_locked_at_utc": "2026-11-13T15:27:06.262255+00:00",
+            "decision_locked_at_utc": "2026-11-13T15:26:42.078179+00:00",
             "entry_price": 29.77,
             "current_price": 28.75
           }
@@ -1627,7 +1627,7 @@
           "unrealized_pnl_pct": 4.2432,
           "archetype": "healthcare",
           "entry_session": "2026-10-21",
-          "decision_locked_at_utc": "2026-11-13T15:27:06.262255+00:00",
+          "decision_locked_at_utc": "2026-11-13T15:26:42.078179+00:00",
           "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
         },
         {
@@ -1641,7 +1641,7 @@
           "unrealized_pnl_pct": -3.4256,
           "archetype": "healthcare",
           "entry_session": "2026-10-21",
-          "decision_locked_at_utc": "2026-11-13T15:27:06.262255+00:00",
+          "decision_locked_at_utc": "2026-11-13T15:26:42.078179+00:00",
           "yahoo_url": "https://finance.yahoo.com/quote/PFE"
         }
       ]
