@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T00:43:52.457279+00:00",
+  "updated_at": "2026-11-21T02:04:17.886508+00:00",
   "is_simulation": true,
   "reports": [
     {
@@ -1894,6 +1894,64 @@
           "yahoo_url": "https://finance.yahoo.com/quote/ABT"
         }
       ]
+    },
+    {
+      "date": "2026-11-20",
+      "day": 20,
+      "is_simulation": true,
+      "headline": "Day 20 \u2014 Nov 20, 2026: Your $1,000.00 budget is now $999.44 (-$0.56 / -0.06%).",
+      "bullets": [
+        "Sold 0.4046 shares ($115.65) of ABBV at $285.87 \u2014 it left the list of names the AI wants to own.",
+        "Sold 1.1199 shares ($116.95) of ABT at $104.43 \u2014 it left the list of names the AI wants to own."
+      ],
+      "summary": {
+        "initial_budget_usd": 1000.0,
+        "cash_usd": 999.44,
+        "invested_usd": 0,
+        "total_equity_usd": 999.44,
+        "net_profit_usd": -0.56,
+        "net_profit_pct": -0.0565,
+        "daily_change_usd": -0.11,
+        "daily_change_pct": -0.0115,
+        "total_fees_slippage_usd": 1.12,
+        "days_elapsed": 20
+      },
+      "trades": [
+        {
+          "date": "2026-11-20",
+          "ticker": "ABBV",
+          "side": "sell",
+          "shares": 0.404569,
+          "price": 285.87,
+          "notional_usd": 115.65,
+          "archetype": null,
+          "conviction_p": 0.0,
+          "reason": "rebalance_exit",
+          "decision_locked_at_utc": "2026-11-21T02:04:17.827917+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.06
+        },
+        {
+          "date": "2026-11-20",
+          "ticker": "ABT",
+          "side": "sell",
+          "shares": 1.119888,
+          "price": 104.43,
+          "notional_usd": 116.95,
+          "archetype": null,
+          "conviction_p": 0.0,
+          "reason": "rebalance_exit",
+          "decision_locked_at_utc": "2026-11-21T02:04:17.827917+00:00",
+          "slippage_bps": 5.0,
+          "fees_usd": 0.06
+        }
+      ],
+      "how_to_check": {
+        "headline": "How to check this is real",
+        "explanation": "Open each link below and compare the price on Yahoo Finance with the price written here. When they match, you are looking at real market prices. The 'locked at' time is the exact moment the paper decision was made.",
+        "positions": []
+      },
+      "positions": []
     }
   ]
 }

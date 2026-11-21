@@ -1,48 +1,19 @@
 {
-  "updated_at": "2026-11-19T00:43:52.441312+00:00",
+  "updated_at": "2026-11-21T02:04:17.867758+00:00",
   "is_simulation": true,
   "initial_budget_usd": 1000.0,
   "start_date": "2026-10-21",
-  "days_elapsed": 19,
-  "cash_balance_usd": 766.84,
-  "invested_market_value_usd": 232.72,
-  "total_equity_usd": 999.55,
-  "net_profit_usd": -0.45,
-  "net_profit_pct": -0.0448,
-  "total_fees_slippage_usd": 1.0,
+  "days_elapsed": 20,
+  "cash_balance_usd": 999.44,
+  "invested_market_value_usd": 0,
+  "total_equity_usd": 999.44,
+  "net_profit_usd": -0.56,
+  "net_profit_pct": -0.0565,
+  "total_fees_slippage_usd": 1.12,
   "benchmark_spy_start_price": null,
   "benchmark_spy_last_price": null,
-  "last_evaluated_session": "2026-11-18",
-  "positions": [
-    {
-      "ticker": "ABBV",
-      "shares": 0.404568811073699,
-      "entry_price": 283.10147145080566,
-      "current_price": 286.010009765625,
-      "cost_basis_usd": 114.53,
-      "current_value_usd": 115.71,
-      "unrealized_pnl_usd": 1.18,
-      "unrealized_pnl_pct": 1.0274,
-      "archetype": "healthcare",
-      "entry_session": "2026-10-21",
-      "decision_locked_at_utc": "2026-11-19T00:43:52.401530+00:00",
-      "yahoo_url": "https://finance.yahoo.com/quote/ABBV"
-    },
-    {
-      "ticker": "ABT",
-      "shares": 1.1198882511094432,
-      "entry_price": 107.15354847335814,
-      "current_price": 104.4800033569336,
-      "cost_basis_usd": 120.0,
-      "current_value_usd": 117.01,
-      "unrealized_pnl_usd": -2.99,
-      "unrealized_pnl_pct": -2.4951,
-      "archetype": "healthcare",
-      "entry_session": "2026-11-17",
-      "decision_locked_at_utc": "2026-11-19T00:43:52.401530+00:00",
-      "yahoo_url": "https://finance.yahoo.com/quote/ABT"
-    }
-  ],
+  "last_evaluated_session": "2026-11-20",
+  "positions": [],
   "snapshots": [
     {
       "date": "2026-10-21",
@@ -252,7 +223,47 @@
       "benchmark_spy_eq_usd": 1000.0,
       "net_profit_usd": -0.45,
       "net_profit_pct": -0.0448
+    },
+    {
+      "date": "2026-11-20",
+      "total_equity_usd": 999.44,
+      "cash_usd": 999.44,
+      "invested_usd": 0,
+      "daily_change_usd": -0.11,
+      "daily_change_pct": -0.0115,
+      "benchmark_spy_eq_usd": 1000.0,
+      "net_profit_usd": -0.56,
+      "net_profit_pct": -0.0565
     }
   ],
-  "trades": []
+  "trades": [
+    {
+      "date": "2026-11-20",
+      "ticker": "ABBV",
+      "side": "sell",
+      "shares": 0.404569,
+      "price": 285.87,
+      "notional_usd": 115.65,
+      "archetype": null,
+      "conviction_p": 0.0,
+      "reason": "rebalance_exit",
+      "decision_locked_at_utc": "2026-11-21T02:04:17.827917+00:00",
+      "slippage_bps": 5.0,
+      "fees_usd": 0.06
+    },
+    {
+      "date": "2026-11-20",
+      "ticker": "ABT",
+      "side": "sell",
+      "shares": 1.119888,
+      "price": 104.43,
+      "notional_usd": 116.95,
+      "archetype": null,
+      "conviction_p": 0.0,
+      "reason": "rebalance_exit",
+      "decision_locked_at_utc": "2026-11-21T02:04:17.827917+00:00",
+      "slippage_bps": 5.0,
+      "fees_usd": 0.06
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 # 📄 Quant Bot — Public Paper-Trading Proof
 
-_Last refreshed: 2026-11-19T00:43:52.467278+00:00 · published from `quant-bot-live-proof`._
+_Last refreshed: 2026-11-21T02:04:17.900652+00:00 · published from `quant-bot-live-proof`._
 
 ---
 
@@ -8,38 +8,26 @@ _Last refreshed: 2026-11-19T00:43:52.467278+00:00 · published from `quant-bot-l
 
 | Metric | Value |
 | --- | ---: |
-| Wallet value (started at $1,000.00) | **$999.55** |
-| Total return | **-0.04%** |
-| Profit / loss | $-0.45 |
-| Cash on hand | $766.84 |
-| Invested in stocks | $232.72 |
-| Fees + slippage paid | $1.00 |
-| Days tracked | 19 |
+| Wallet value (started at $1,000.00) | **$999.44** |
+| Total return | **-0.06%** |
+| Profit / loss | $-0.56 |
+| Cash on hand | $999.44 |
+| Invested in stocks | $0.00 |
+| Fees + slippage paid | $1.12 |
+| Days tracked | 20 |
 | Started | 2026-10-21 |
 
 ## Today's positions
 
-| Ticker | Sector | Shares | Paid | Now | Value | P&L | Verify |
-| --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| **ABBV** | healthcare | 0.4046 | $283.10 | $286.01 | $115.71 | +1.03% | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
-| **ABT** | healthcare | 1.1199 | $107.15 | $104.48 | $117.01 | -2.50% | [Yahoo](https://finance.yahoo.com/quote/ABT) |
+_No open positions yet._
 
 ## Today's scan — diversified Top-10 candidates
 
-_Session 2026-11-18 (data as of 2026-11-18; source live_latest_session)._
+_Session 2026-11-20 (data as of 2026-11-20; source live_latest_session)._
 
 | # | Ticker | Sector | Conviction | Edge (bps) | Target | Verify |
 | ---: | --- | --- | ---: | ---: | ---: | --- |
-| 1 | **ABBV** | healthcare | 57.0% | 124.3 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/ABBV) |
-| 2 | **ABT** | healthcare | 54.2% | 119.2 | $120.00 | [Yahoo](https://finance.yahoo.com/quote/ABT) |
-| 3 | **ADBE** | technology | 53.5% | 48.6 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ADBE) |
-| 4 | **AAPL** | technology | 52.6% | 20.4 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AAPL) |
-| 5 | **ADNT** | industrials | 51.9% | 17.4 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ADNT) |
-| 6 | **AEP** | utilities | 52.2% | 21.2 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AEP) |
-| 7 | **ALGT** | industrials | 51.3% | 16.1 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/ALGT) |
-| 8 | **AFGE** | financials | 51.5% | 0.0 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AFGE) |
-| 9 | **AGO** | financials | 52.4% | 0.0 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AGO) |
-| 10 | **AIFA** | consumer | 49.5% | 1.5 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AIFA) |
+| 1 | **AFGE** | financials | 49.4% | 5.4 | $0.00 | [Yahoo](https://finance.yahoo.com/quote/AFGE) |
 
 ## Out-of-sample simulation
 
@@ -166,10 +154,16 @@ _Session 2026-11-18 (data as of 2026-11-18; source live_latest_session)._
 - Held 0.4046 shares of ABBV — you paid $283.10 each and they are now $286.01 each, so you are up $1.18.
 - Held 1.1199 shares of ABT — you paid $107.15 each and they are now $104.48 each, so you are down $2.99.
 
+#### 2026-11-20 — day 20
+**Day 20 — Nov 20, 2026: Your $1,000.00 budget is now $999.44 (-$0.56 / -0.06%).**
+- Sold 0.4046 shares ($115.65) of ABBV at $285.87 — it left the list of names the AI wants to own.
+- Sold 1.1199 shares ($116.95) of ABT at $104.43 — it left the list of names the AI wants to own.
+
 ## Daily archive — one immutable file per session
 
 | Date | Wallet value | Return | Snapshot |
 | --- | ---: | ---: | --- |
+| 2026-11-20 | $999.44 | -0.06% | [2026-11-20.json](daily/2026-11-20.json) |
 | 2026-11-18 | $999.55 | -0.04% | [2026-11-18.json](daily/2026-11-18.json) |
 | 2026-11-17 | $1,004.92 | +0.49% | [2026-11-17.json](daily/2026-11-17.json) |
 | 2026-11-16 | $1,011.23 | +1.12% | [2026-11-16.json](daily/2026-11-16.json) |
